@@ -1,5 +1,6 @@
 🌍 Global Stewardship Charter  
 Public Review for two documents
+
 (1) Global Stewardship Charter – April 18, 2026
 👉 [Open PDF](./Global_Stewardship_Charter_updated_April-18-2026.pdf)
 **What changed:**

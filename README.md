@@ -1,22 +1,23 @@
+# 🌍 Global Stewardship: Foundational Frameworks
 This repository contains the foundational documents for ethical, conscious, and safe technological stewardship. It connects governance, consciousness, and ancestral wisdom for a holistic approach. 
 All documents are authored by Gaynor Kim-Sing using LLMs DeepSeek and Anthropic (Claude).
 
 Core Documents
 
-1.Global Stewardship Charter
+1.🌍Global Stewardship Charter
 	Version: April 18, 2026 (Updated)
 	File: Global_Stewardship_Charter_updated_April-18-2026.pdf
 	License: CC BY-NC-ND 4.0
 	This charter outlines the structural and ethical framework for planetary-scale stewardship, including new AI and data rights sections.
 
-2.Consciousness, Suffering & Safer AI Design
+2.🌍Consciousness, Suffering & Safer AI Design
 	Version: April 15, 2026 (Updated)
 	File: Consciousness_Suffering_&_Safer_AI_Design_Updated_Apr15_2026.pdf
 	DOI: 10.5281/zenodo.19604443
 	License: CC0 (Public Domain)
 	This paper explores the ethical implications of potential AI consciousness and suffering, proposing design principles for safer systems.
 
-3.The Ancestral Dimension of AI Safety (New Addendum)
+3.🌍The Ancestral Dimension of AI Safety (New Addendum)
 	Version: April 30, 2026
 	File: Ancestral_Dimension_AI_Safety_Addendum.pdf
 	License: CC BY-NC-ND 4.0

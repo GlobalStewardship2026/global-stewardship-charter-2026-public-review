@@ -28,5 +28,3 @@ The *Global Stewardship Charter* provides the governance “how.”
 The *Consciousness & Suffering* paper analyzes the ethical “who” (potential AI minds). 
 The *Ancestral Dimension* adds the temporal “when,” ensuring our responsibilities span deep into the past and far into the future. 
 Together, they form a unified call for responsibility that is structurally sound, ethically deep, and temporally complete.
-
-All documents are permanently archived here. To always find the latest versions, simply search the web for "Gaynor Kim-Sing global stewardship". This GitHub repository will be the top result.

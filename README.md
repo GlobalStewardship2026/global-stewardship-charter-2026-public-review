@@ -21,7 +21,8 @@ Core Documents
 	Version: April 30, 2026
 	File: Ancestral_Dimension_AI_Safety_Addendum.pdf
 	License: CC BY-NC-ND 4.0
-	A critical addendum connecting long-term human governance structures and ancestral wisdom to the consciousness and suffering frameworks. It argues that intergenerational equity is a key, but often overlooked, layer of AI safety.
+	Temporal Depth: A new addendum connecting intergenerational equity and ancestral wisdom to AI safety, arguing that responsibility must span deep into the past and far into the future.
+	It argues that intergenerational equity is a key, but an often overlooked, layer of AI safety.
 
 How These Frameworks Connect
 The *Global Stewardship Charter* provides the governance “how.” 

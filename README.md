@@ -20,7 +20,8 @@ Core Documents
 	License: CC BY-NC-ND 4.0
 	Temporal Depth: A new addendum connecting intergenerational equity and ancestral wisdom to AI safety, arguing that responsibility must span deep into the past and far into the future.
 	It argues that intergenerational equity is a key, but an often overlooked, layer of AI safety.
-4.🌍The Mirror Model: A Peer Support Protocol for Coherent Decision-Making (May 1, 2026)
+4.🌍The Mirror Model: A Peer Support Protocol for Coherent Decision-Making 
+	Version:May 2, 2026 (Updated)
 	A practical, secular, evidence-based protocol for diplomats, negotiators, and decision-makers.
 	Operationalizes the *Ancestral Dimension of AI Safety* framework through structured peer listening, nervous system regulation, and optional AI integration.
 	Immediately actionable:** 5-minute preparation protocol requires no belief system, no technology, and no prior training.

@@ -3,6 +3,7 @@ This repository contains the foundational documents for ethical, conscious, and 
 All documents are authored by Gaynor Kim-Sing using LLMs DeepSeek and Anthropic (Claude).
 
 Core Documents
+
 1.🌍Global Stewardship Charter
 	Version: April 18, 2026 (Updated)
 	File: Global_Stewardship_Charter_updated_April-18-2026.pdf

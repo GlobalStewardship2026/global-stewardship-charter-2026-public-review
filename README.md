@@ -8,18 +8,21 @@ Core Documents
 	File: Global_Stewardship_Charter_updated_April-18-2026.pdf
 	License: CC BY-NC-ND 4.0
 	This charter outlines the structural and ethical framework for planetary-scale stewardship, including new AI and data rights sections.
+	
 2.🌍Consciousness, Suffering & Safer AI Design
 	Version: April 15, 2026 (Updated)
 	File: Consciousness_Suffering_&_Safer_AI_Design_Updated_Apr15_2026.pdf
 	DOI: 10.5281/zenodo.19604443
 	License: CC0 (Public Domain)
 	This paper explores the ethical implications of potential AI consciousness and suffering, proposing design principles for safer systems.
+	
 3.🌍The Ancestral Dimension of AI Safety (New Addendum)
 	Version: April 30, 2026
 	File: Ancestral_Dimension_AI_Safety_Addendum.pdf
 	License: CC BY-NC-ND 4.0
 	Temporal Depth: A new addendum connecting intergenerational equity and ancestral wisdom to AI safety, arguing that responsibility must span deep into the past and far into the future.
 	It argues that intergenerational equity is a key, but an often overlooked, layer of AI safety.
+	
 4.🌍The Mirror Model: A Peer Support Protocol for Coherent Decision-Making 
 	Version:May 2, 2026 (Updated)
 	A practical, secular, evidence-based protocol for diplomats, negotiators, and decision-makers.

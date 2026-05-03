@@ -33,8 +33,13 @@ Core Documents
 	Peer support science · Group coherence effects (EXPLORE, Elsevier, January 2026)
 
 🌍How These Frameworks Connect
+
 The *Global Stewardship Charter* provides the governance “how.” 
+
 The *Consciousness & Suffering* paper analyzes the ethical “who” (potential AI minds). 
+
 The *Ancestral Dimension* adds the temporal “when,” ensuring our responsibilities span deep into the past and far into the future. 
+
 The *Mirror Model: A Peer Support Protocol, "pragmatic, actionable"
+
 Together, they form a unified call for responsibility that is structurally sound, ethically deep, and temporally complete.

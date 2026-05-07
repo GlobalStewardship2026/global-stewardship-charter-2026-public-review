@@ -39,7 +39,6 @@ Core Documents
 	Peer support science · Group coherence effects (EXPLORE, Elsevier, January 2026)
 
 5.🌍Consciousness Quality As A Nuclear Safety Variable - May 7, 2026  ★ NEW
-
 Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
 
 

@@ -32,14 +32,12 @@ Core Documents
 	Scientific grounding: Polyvagal theory · HRV coherence research (HeartMath Institute, 2025) · Epigenetics (Lipton; Meaney & Szyf) 
 	Peer support science · Group coherence effects (EXPLORE, Elsevier, January 2026)
 
-🌍How These Frameworks Connect
+5.🌍Consciousness Quality As A Nuclear Safety Variable - May 7, 2026  ★ NEW
+Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
 
-The *Global Stewardship Charter* provides the governance “how.” 
+🌍THE QUESTION THESE DOCUMENTS ANSWER
 
-The *Consciousness & Suffering* paper analyzes the ethical “who” (potential AI minds). 
+How do we build a future that reduces suffering — for all conscious beings — rather than amplifying it?
 
-The *Ancestral Dimension* adds the temporal “when,” ensuring our responsibilities span deep into the past and far into the future. 
+That question has five working answers in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state). You can enter the framework from any document. Each one points to the others.
 
-The *Mirror Model: A Peer Support Protocol, "pragmatic, actionable"
-
-Together, they form a unified call for responsibility that is structurally sound, ethically deep, and temporally complete.

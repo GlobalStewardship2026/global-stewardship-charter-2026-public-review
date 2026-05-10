@@ -42,9 +42,9 @@ Core Documents
 Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
 
 6. 🌍 The Consciousness Variable: Operational Brief & Strategic Update - May 10, 2026 ★ NEW
-   File: The_Consciousness_Variable_May10_2026.pdf
-   License: CC0 (Public Domain)
-   Pragmatic policy brief applying the entire framework to nuclear stability and AI safety.
+File: The_Consciousness_Variable_May10_2026.pdf
+License: CC0 (Public Domain)
+Pragmatic policy brief applying the entire framework to nuclear stability and AI safety.
 
 
 

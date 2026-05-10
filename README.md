@@ -6,7 +6,7 @@ All documents are authored by Gaynor Kim-Sing using LLMs DeepSeek and Anthropic 
 
 How do we build a future that reduces suffering — for all conscious beings — rather than amplifying it?
 
-That question has five working answers in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state). You can enter the framework from any document. Each one points to the others.
+That question has six working answers in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state). You can enter the framework from any document. Each one points to the others.
 
 Core Documents
 
@@ -40,6 +40,11 @@ Core Documents
 
 5.🌍Consciousness Quality As A Nuclear Safety Variable - May 7, 2026  ★ NEW
 Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
+
+6. 🌍 The Consciousness Variable: Operational Brief & Strategic Update - May 10, 2026 ★ NEW
+   File: The_Consciousness_Variable_May10_2026.pdf
+   License: CC0 (Public Domain)
+   Pragmatic policy brief applying the entire framework to nuclear stability and AI safety.
 
 
 

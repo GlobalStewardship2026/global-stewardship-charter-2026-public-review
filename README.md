@@ -6,7 +6,7 @@ All documents are authored by Gaynor Kim-Sing using LLMs DeepSeek and Anthropic 
 
 How do we build a future that reduces suffering — for all conscious beings — rather than amplifying it?
 
-That question has six working answers in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state). You can enter the framework from any document. Each one points to the others.
+That question has seven working answers in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state). You can enter the framework from any document. Each one points to the others.
 
 Core Documents
 

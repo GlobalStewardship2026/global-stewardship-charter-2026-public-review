@@ -41,7 +41,7 @@ Core Documents
 5.🌍Consciousness Quality As A Nuclear Safety Variable - May 7, 2026  ★ NEW
 Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
 
-6. 🌍 The Consciousness Variable: Operational Brief May 11, 2026 ★ NEW
+6. 🌍 GSC Consciousness Variable: Operational Brief May 11, 2026 ★ NEW
 File: The Consciousness Variable - Operational Brief for the 11th NPT Review Conference - Final Week - May 11, 2026
 Condensed 4-minute brief tailored for delegates and civil society during the final week of the 11th NPT Review Conference (ends May 22, 2026).
 License: CC0 (Public Domain)

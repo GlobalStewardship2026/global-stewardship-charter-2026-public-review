@@ -42,16 +42,15 @@ Core Documents
 Empirical case for mandatory AI guardrails in nuclear command. Three proposals requiring no treaty amendment. For NPT RevCon delegates and nuclear policy makers.
 
 6. 🌍 The Consciousness Variable: Operational Brief May 11, 2026 ★ NEW
-File: The Consciousness Variable - Operational Brief for the 11th NPT Review Conference - Final Week - May 11, 2026 - Quick Brief for Decision-Makers
+File: The Consciousness Variable - Operational Brief for the 11th NPT Review Conference - Final Week - May 11, 2026
+Condensed 4-minute brief tailored for delegates and civil society during the final week of the 11th NPT Review Conference (ends May 22, 2026).
 License: CC0 (Public Domain)
 Pragmatic policy brief applying the entire framework to nuclear stability and AI safety.
 
-7. 🌍 The Consciousness Variable: RevCon Final Week Brief - May 11, 2026 ★ NEW
+7. 🌍 The Consciousness Variable: RevCon Final Week Brief - May 11, 2026 ★ NEW updated with Nash economic principles.
 File: Consciousness-Variable-RevCon-Final-Week-May11.pdf
 License: CC0 (Public Domain)
-Condensed 4-minute brief tailored for delegates and civil society during the final week of the 11th NPT Review Conference (ends May 22, 2026).
-Includes: proposed outcome document language, three implementable safeguards (72-hour human deliberation period, constitutional AI alignment certification, consciousness quality monitoring), and converging research citations from Anthropic (May 8, 2026) and BIGAI.
-Supersedes the May 10 comprehensive brief for RevCon purposes. The May 10 document remains the authoritative longer version and will be updated with Nash economic principles.
+
 
 
 

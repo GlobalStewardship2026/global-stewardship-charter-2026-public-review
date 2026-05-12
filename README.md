@@ -48,7 +48,7 @@ License: CC0 (Public Domain)
 Pragmatic policy brief applying the entire framework to nuclear stability and AI safety.
 
 7. 🌍 The Consciousness Variable: RevCon Final Week Brief - May 11, 2026 ★ NEW updated with Nash economic principles.
-File: Consciousness-Variable-RevCon-Final-Week-May11.pdf
+File: The Consciousness-Variable-RevCon-Final-Week-May11.pdf
 License: CC0 (Public Domain)
 
 

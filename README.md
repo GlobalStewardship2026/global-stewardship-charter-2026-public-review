@@ -25,7 +25,7 @@ That question has **eight working answers** in this repository. Each document is
 | **AI safety researcher or policy maker** | Documents 2, 3, then 5 |
 | **Diplomat, negotiator, or mediator** | Document 4 (Mirror Model) |
 | **General reader new to the framework** | Document 1 (Charter) |
-| **Civil society advocate — urgent action** | Document 8 (Letters — act by 22 May) |
+| **Civil society advocate ** | Document 8 (Nash Equilibrium Nuclear Brief & Annexe: Dialogue for Security Dilemma ) |
 
 ---
 

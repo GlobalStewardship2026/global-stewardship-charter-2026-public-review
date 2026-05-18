@@ -105,29 +105,33 @@ The fullest application of the Consciousness Variable framework to nuclear stabi
 
 ---
 
-### 8. 🕊️ Six Letters to the Edge of the Precipice
-**Version:** May 16, 2026 ★ NEW — URGENT (RevCon ends May 22)  
-**Files:**  
-- `NPT_RevCon_Letters_FinalWeek_May2026.md` ← *Read this in your browser — renders fully on GitHub*  
-- `NPT_RevCon_Letters_May2026.docx` ← *Download for editing and distribution*  
+## 8. 🕊️ Six Letters to the Edge of the Precipice
+
+During the final days of the 11th NPT Review Conference (May 2026), the following two documents were transmitted as a formal civil society communication to six recipients across the diplomatic and civil society ecosystem active in nuclear disarmament — including national missions from nuclear weapon states and key non-nuclear states, and NGO partners monitoring the RevCon process.
+
+The accompanying letters are held as private diplomatic correspondence. The full substance of that communication is represented in these two public documents.
+
+---
+
+### 🌍 Nash Equilibrium Nuclear Brief — May 16, 2026
+
+**File:** `Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf`
 **License:** CC0 (Public Domain)
 
-*Six targeted letters. Six days. One chance at a decade-defining agreement.*
+A game-theory grounded argument for why mutual restraint — anchored by a structured 72-hour deliberation delay — represents the dominant strategy for all nuclear-armed states under AI-accelerated risk conditions. Draws on Nash Equilibrium principles to demonstrate that no state benefits from defection once the delay protocol is adopted as a universal norm.
 
-Six letters addressed to the individuals with the greatest capacity to shift the outcome of the 11th NPT Review Conference in its final week:
+---
 
-- **Letter A** → Ambassador Do Hung Viet (RevCon President, Vietnam) — procedural unlocking moves, Security Dilemma Dialogue proposal, pilot-pair recommendations
-- **Letter B** → UN Secretary-General António Guterres — three specific phone calls requested in 72 hours
-- **Letter C** → All nine nuclear-armed states (US, Russia, China, UK, France, India, Pakistan, Israel, DPRK) — carrots, sticks, and one joint statement request; full contact table included
-- **Letter D** → PM Sanae Takaichi (Japan) — three public acts before May 22; addresses plutonium controversy directly
-- **Letter E** → India, Pakistan, Israel, DPRK — via ICAN, Pugwash, Reaching Critical Will, and China Mission
-- **Letter F** → FM Araghchi (Iran) — Hormuz statecraft translated into RevCon leadership
+### 🌍 The Security Dilemma Dialogue — A Practical Guide (Annexe) — May 16, 2026
 
-**Includes:** SWOT analysis of RevCon prospects · Full recipient email table · Security Dilemma Dialogue methodology (Annexe) · Safe pilot-pair rankings for perspective-taking exercise
+**File:** `Annexe_Security_Dilemma_Dialogue_Practical_Guide_May-16-2026.pdf`
+**License:** CC0 (Public Domain)
 
-*Every letter is grounded in live conference reporting as of 16 May 2026.*  
-*All methodology draws on Documents 1–7 in this repository.*  
-*CC0 — copy, translate, adapt, send. No permission required.*
+Companion document to the Nash Equilibrium Nuclear Brief. A practical, dialogue-based guide for navigating the security dilemma in AI-nuclear contexts — designed for immediate use by diplomats, negotiators, and policy advisors. Translates the theoretical framework into structured conversation tools requiring no prior technical knowledge.
+
+---
+
+> *These two documents were placed in the public domain during the live proceedings of RevCon 2026. The timestamped commit record serves as the verifiable public record of their release.*
 
 ---
 

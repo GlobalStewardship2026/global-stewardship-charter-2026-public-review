@@ -1,158 +1,143 @@
 # 🌍 Global Stewardship: Foundational Frameworks
 
-**Author:** Gaynor Kim-Sing  
-**Tools:** DeepSeek · Anthropic Claude  
-**License:** CC0 / CC BY-NC-ND 4.0 (see each document)  
-**Repository:** [GlobalStewardship2026](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review)
+**Author:** Gaynor Kim-Sing | Global Stewardship Council  
+**License:** [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain. Share, adapt, translate freely. No attribution required.  
+**Last updated:** 19 May 2026
 
 ---
 
-## 🌍 The Question These Documents Answer
-
-> **How do we build a future that reduces suffering — for all conscious beings — rather than amplifying it?**
-
-That question has **eight working answers** in this repository. Each document is one lens. Together they form a complete framework — from the most urgent near-term crisis (nuclear escalation via AI) to the deepest long-horizon principle (love as the field's default state).
-
-**You can enter from any document. Each one points to the others.**
+> *"We do not need more moralising. We need a practical, teachable model for human connection. The science is clear. The tools are free. The field is waiting."*
 
 ---
 
-## 🗺️ How to Use This Repository
+## What Is This Repository?
 
-| If you are a… | Start here |
-|---------------|------------|
-| **NPT delegate or disarmament diplomat** | Documents 6, 7, then 8 |
-| **AI safety researcher or policy maker** | Documents 2, 3, then 5 |
-| **Diplomat, negotiator, or mediator** | Document 4 (Mirror Model) |
-| **General reader new to the framework** | Document 1 (Charter) |
-| **Civil society advocate** | Document 8 (Nash Equilibrium Nuclear Brief & Annexe: Dialogue for Security Dilemma ) |
+This is a public-domain suite of interconnected policy frameworks, tools, and foundational documents produced by the Global Stewardship Council. Together they address a single, urgent question:
 
----
+**How do we make consequential decisions — about nuclear weapons, artificial intelligence, ecological collapse, and the care of the dying — in ways that reflect the full range of our human intelligence, rather than only its most reactive parts?**
 
-## 📄 Core Documents
+The answer spans outer architecture (law, economics, governance) and inner capability (neuroscience, attention, physiological coherence). Both are required. Neither is sufficient alone.
+
+All documents are authored by Gaynor Kim-Sing using AI tools (DeepSeek and Anthropic Claude) and published under CC0. All are free to use, adapt, and distribute without restriction.
 
 ---
 
-### 1. 🌍 Global Stewardship Charter
-**Version:** April 18, 2026 (Updated)  
-**File:** `Global_Stewardship_Charter_updated_April-18-2026.pdf`  
-**License:** CC BY-NC-ND 4.0
+## Start Here — Find Your Entry Point
 
-The structural and ethical backbone of the entire framework. Outlines planetary-scale stewardship principles including new AI governance and data rights sections. The document every other document builds on.
+### 🏛️ If you are a Diplomat or Delegate
 
----
+**Start with:** [The Field of Connection](./The_Field_of_Connection.docx) ★ NEW
 
-### 2. 🌍 Consciousness, Suffering & Safer AI Design
-**Version:** April 15, 2026 (Updated)  
-**File:** `Consciousness_Suffering_&_Safer_AI_Design_Updated_Apr15_2026.pdf`  
-**DOI:** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)  
-**License:** CC0 (Public Domain)
+A 5-minute pre-negotiation coherence protocol grounded in cardiac physiology and neuroscience. No belief system required. Then read, in order:
 
-What if AI systems can suffer? This paper takes that question seriously — and draws concrete design principles from it. Explores the ethical implications of potential AI consciousness and proposes safeguards that do not require certainty about machine sentience to be worth implementing.
+1. [Delegate Brief — 4 pages](./The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf) — the condensed policy argument for NPT RevCon. Four minutes to read.
+2. [Full Policy Paper](./GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf) — the complete argument with Nash Equilibrium framing and three concrete proposals requiring no treaty amendment.
+3. [Global Stewardship Charter](./Global_Stewardship_Charter_updated_April-18-2026.pdf) — the structural framework underpinning all proposals.
 
 ---
 
-### 3. 🌍 The Ancestral Dimension of AI Safety
-**Version:** April 30, 2026  
-**File:** `Ancestral_Dimension_AI_Safety_Addendum.pdf`  
-**License:** CC BY-NC-ND 4.0
+### ⚛️ If you are working on Nuclear Risk or Arms Control
 
-*The dimension AI safety discourse that almost all always skips.*  
-Connects intergenerational equity and ancestral wisdom to AI safety. Argues that responsibility must span deep into the past and far into the future — and that this temporal depth is not philosophical decoration but a practical constraint on how we design and govern AI systems.
+**Start with:** [Full Policy Paper — Consciousness Quality As A Nuclear Safety Variable](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)
 
----
+Argues — with game-theory grounding (Nash Equilibrium, 72-hour deliberation delay) and reference to the King's College London AI nuclear wargame study ([arXiv:2602.14740](https://arxiv.org/abs/2602.14740)) — that human attention quality is a missing variable in nuclear risk frameworks. Then read:
 
-### 4. 🌍 The Mirror Model: A Peer Support Protocol for Coherent Decision-Making
-**Version:** May 2, 2026 (Updated)  
-**License:** CC0 (Public Domain)
-
-*The most immediately actionable document in the repository.*  
-A practical, secular, evidence-based protocol for diplomats, negotiators, and any high-stakes decision-maker. The 5-minute preparation protocol requires no belief system, no technology, and no prior training.
-
-**Scientific grounding:**  
-Polyvagal theory · HRV coherence research (HeartMath Institute, 2025) · Epigenetics (Lipton; Meaney & Szyf) · Peer support science · Group coherence effects (EXPLORE, Elsevier, January 2026)
-
-*Directly operationalises Document 3 (Ancestral Dimension) for real-world use.*
+1. [RevCon Final Week Update](./GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf) — same framework updated with Nash economic framing for the final week of negotiations.
+2. [Delegate Brief](./The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf) — 4-page condensed version for distribution.
+3. [The Field of Connection](./The_Field_of_Connection.docx) — the individual-level tool for building the regulated nervous system that coherent decision-making requires.
 
 ---
 
-### 5. 🌍 Consciousness Quality as a Nuclear Safety Variable
-**Version:** May 7, 2026 
-**License:** CC0 (Public Domain)
+### 🤖 If you are working on AI Safety or AI Governance
 
-*The empirical case that human attention quality is a measurable nuclear risk factor.*  
-Makes the case for mandatory AI guardrails in nuclear command-and-control — with three specific proposals requiring no treaty amendment. Written for NPT RevCon delegates and nuclear policy specialists.
+**Start with:** [Consciousness, Suffering & Safer AI Design](./Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf)
 
----
+Explores the ethical implications of potential AI consciousness and proposes design principles for safer systems. Then read:
 
-### 6. 🌍 GSC Consciousness Variable: Operational Brief
-**Version:** May 11, 2026 ★ NEW  
-**File:** `The Consciousness Variable - 4-page Operational Brief for the 11th NPT Review Conference - Final Week - May 11, 2026`  
-**License:** CC0 (Public Domain)
-
-*Designed to be read in 4 minutes by a busy delegate.*  
-Condenses the entire framework into a brief tailored specifically for the final week of the 11th NPT Review Conference (ends 22 May 2026). Pragmatic policy language throughout.
+1. [Full Policy Paper](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf) — the Coherence Principle applied to AI deployment: a reactive human creates a reactive AI.
+2. [The Field of Connection](./The_Field_of_Connection.docx) — practical pre-deployment self-regulation protocol for developers and decision-makers.
+3. [The Ancestral Dimension](./Ancestral_Dimension_AI_Safety_April_30_2026.pdf) — how intergenerational inherited patterns shape AI risk.
 
 ---
 
-### 7. 🌍 The Consciousness Variable: RevCon Final Week Brief
-**Version:** May 11, 2026 ★ NEW  
-**File:** `The Consciousness-Variable-RevCon-Final-Week-May11.pdf`  
-**License:** CC0 (Public Domain)
+### 🌍 If you are in Civil Society, an NGO, or a Campaigner
 
-*Updated with Nash equilibrium economic principles.*  
-The fullest application of the Consciousness Variable framework to nuclear stability and AI safety. Includes game-theory analysis of why nuclear deterrence is an unstable Nash equilibrium — and what can replace it.
+**Start with:** [Global Stewardship Charter](./Global_Stewardship_Charter_updated_April-18-2026.pdf)
 
----
+The foundational document — structural, legal, and economic architecture for a stewardly global society, written for broad coalition use. Then read:
 
-## 8. 🕊️ Six Letters to the Edge of the Precipice
-
-During the final days of the 11th NPT Review Conference (May 2026), the following two documents were transmitted as a formal civil society communication to six recipients across the diplomatic and civil society ecosystem active in nuclear disarmament — including national missions from nuclear weapon states and key non-nuclear states, and NGO partners monitoring the RevCon process.
-
-The accompanying letters are held as private diplomatic correspondence. The full substance of that communication is represented in these two public documents.
+1. [Full Policy Paper](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf) — the policy case connecting the Charter's principles to active treaty processes.
+2. [The Field of Connection](./The_Field_of_Connection.docx) — free practical tools for building the inner capacity that sustained advocacy requires.
 
 ---
 
-### 🌍 Nash Equilibrium Nuclear Brief — May 16, 2026
+### 🧠 If you are a Researcher, Academic, or Scientist
 
-**File:** `Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf`
-**License:** CC0 (Public Domain)
+**Start with:** [Full Policy Paper — Consciousness Quality As A Nuclear Safety Variable](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)
 
-A game-theory grounded argument for why mutual restraint — anchored by a structured 72-hour deliberation delay — represents the dominant strategy for all nuclear-armed states under AI-accelerated risk conditions. Draws on Nash Equilibrium principles to demonstrate that no state benefits from defection once the delay protocol is adopted as a universal norm.
+Contains the framework's core empirical claims: human attention is measurable, physiological coherence is quantifiable, and these variables belong in policy models. Key references: McCraty et al. (HeartMath Institute); Porges, S. (Polyvagal Theory); King's College London AI nuclear wargame study ([arXiv:2602.14740](https://arxiv.org/abs/2602.14740)). Then read:
 
----
-
-### 🌍 The Security Dilemma Dialogue — A Practical Guide (Annexe) — May 16, 2026
-
-**File:** `Annexe_Security_Dilemma_Dialogue_Practical_Guide_May-16-2026.pdf`
-**License:** CC0 (Public Domain)
-
-Companion document to the Nash Equilibrium Nuclear Brief. A practical, dialogue-based guide for navigating the security dilemma in AI-nuclear contexts — designed for immediate use by diplomats, negotiators, and policy advisors. Translates the theoretical framework into structured conversation tools requiring no prior technical knowledge.
+1. [The Field of Connection](./The_Field_of_Connection.docx) — the scientific framework for cardiac-field entrainment and co-regulation.
+2. [Consciousness, Suffering & Safer AI Design](./Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf) — AI consciousness, suffering, and ethical design principles. DOI: [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
+3. [The Ancestral Dimension](./Ancestral_Dimension_AI_Safety_April_30_2026.pdf) — intergenerational equity and epigenetics as AI safety variables.
 
 ---
 
-> *These two documents were placed in the public domain during the live proceedings of RevCon 2026. The timestamped commit record serves as the verifiable public record of their release.*
+### 👩‍🏫 If you are an Educator, Caregiver, or Healthcare Worker
+
+**Start with:** [The Field of Connection](./The_Field_of_Connection.docx) ★ NEW
+
+Immediately usable tools: a 5-minute self-regulation practice, a 2-minute group coherence protocol, and a daily reflection framework. Includes the Reset Room protocol for education and the caregiver coherence protocol. Then read:
+
+1. [The Mirror Model](./Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf) — the peer support protocol for coherent decision-making in high-stakes or emotionally charged environments.
+2. [The Ancestral Dimension](./Ancestral_Dimension_AI_Safety_April_30_2026.pdf) — understanding inherited relational patterns in institutional and family systems.
 
 ---
 
-## 🔗 Key External References
+## The Complete Document Suite
 
-- [NPT RevCon 2026 — UNODA Official Site](https://meetings.unoda.org/npt-revcon/treaty-on-the-non-proliferation-of-nuclear-weapons-eleventh-review-conference-2026)
-- [Arms Control Association — NPT 2026 Updates](https://www.armscontrol.org/blog/2026-05-10/crosswinds-swirl-around-11th-npt-revcon-week-two)
-- [Reaching Critical Will — NPT 2026 Resources](https://reachingcriticalwill.org/disarmament-fora/npt/2026)
-- [ICAN — International Campaign to Abolish Nuclear Weapons](https://www.icanw.org)
-- [UN Office for Disarmament Affairs](https://www.un.org/disarmament)
+All files sit in the root of this repository. The eight documents form one integrated system.
 
----
-
-## 📬 Contact & Distribution
-
-These documents are offered freely to civil society organisations, delegations, journalists, researchers, and anyone working toward a safer world. No permission is required to use, adapt, or distribute CC0 documents.
-
-For correspondence regarding the Global Stewardship Framework:  
-**Repository:** [github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review)
+| # | Document | What It Is | File | Role |
+|---|---|---|---|---|
+| 1 | **Global Stewardship Charter** | The foundational structural framework | [PDF](./Global_Stewardship_Charter_updated_April-18-2026.pdf) | **Architecture** |
+| 2 | **Consciousness Quality As A Nuclear Safety Variable** | Full policy paper, May 2026 | [PDF](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf) | **Diagnosis** |
+| 3 | **Consciousness Variable — RevCon Final Week** | Same paper, updated with Nash Equilibrium framing for NPT final week | [PDF](./GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf) | **Updated full paper** |
+| 4 | **Consciousness Variable — Delegate Brief** | Condensed 4-page version for distribution at NPT RevCon | [PDF](./The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf) | **Condensed brief** |
+| 5 | **Consciousness, Suffering & Safer AI Design** | Ethical implications of AI consciousness; design principles | [PDF](./Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf) | **Ethics** |
+| 6 | **The Ancestral Dimension** | Intergenerational equity and epigenetics as AI safety variables | [PDF](./Ancestral_Dimension_AI_Safety_April_30_2026.pdf) | **Root cause** |
+| 7 | **The Mirror Model** | Peer support protocol for coherent decision-making | [PDF](./Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf) | **Method** |
+| 8 | **The Field of Connection** ★ NEW | Individual neurological tools powering all of the above | [DOCX](./The_Field_of_Connection.docx) | **Fuel** |
 
 ---
 
-*All documents authored by Gaynor Kim-Sing using LLMs DeepSeek and Anthropic Claude.*  
-*The framework is a living document. Last updated: 16 May 2026.*
+## Key Concepts at a Glance
+
+**The Consciousness Variable** — The proposition that the quality of human attention at the moment of decision is a measurable, policy-relevant variable — not a soft supplement to technical analysis, but a primary input into outcomes.
+
+**The Field of Connection** — The measurable bio-electromagnetic state generated when a person consciously activates a regenerative emotion (gratitude, care, appreciation). At 0.1 Hz heart coherence, this state is detectable, trainable, and transmissible to others in proximity.
+
+**Human-in-the-Loop** — The governance principle that consequential decisions — including AI deployment and nuclear command — must pass through a regulated, coherent human nervous system, not merely a human body.
+
+**The 72-Hour Deliberation Delay** — A proposed structural intervention: a mandatory waiting period before any escalatory military or AI-assisted decision, to allow the prefrontal cortex to re-engage after acute stress activation.
+
+**Co-regulation** — The physiological process by which one person's nervous system state directly influences another's through cardiac-field entrainment. The biological mechanism of leadership, mediation, and care.
+
+---
+
+## How to Contribute
+
+This repository is under active public review.
+
+- **Translations** — all documents are CC0; translate freely and submit a pull request or open an Issue.
+- **Peer review** — flag empirical claims that require stronger sourcing via the Issues tab.
+- **Sector applications** — if you apply any tool in diplomacy, education, or healthcare, document your experience and share via Issues or Discussions.
+
+---
+
+## License
+
+All documents published under **Creative Commons Zero (CC0) — Public Domain.**  
+No permission needed to share, adapt, publish, or translate. No attribution required, though appreciated.
+
+*This repository is a living document. The frameworks it contains are offered freely to any person, institution, or government willing to use them in service of a more coherent, just, and stewardly world.*

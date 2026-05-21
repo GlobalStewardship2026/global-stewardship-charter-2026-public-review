@@ -7,6 +7,16 @@
 
 ---
 
+"What is the point of fighting wars 
+while climate change consumes us? 
+Wildfires, hurricanes, storms. 
+
+Climate refugees and war refugees converging — 
+a world where no one feels secure. 
+
+What kind of future are we leaving for the next generation?"
+
+
 > *"The most powerful tool for changing the world is changing the story we tell about it — then acting from the new story."*
 
 ---

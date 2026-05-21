@@ -158,7 +158,7 @@ A condensed, immediately actionable policy brief tailored for delegates and civi
 **File:** [The_Field_of_Connection.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Field_of_Connection.pdf)  
 **License:** CC0
 
-> ⚠️ *If this link shows an error, the file is being re-uploaded. Check back shortly.*
+> ⚠️ *This link shows an error, go directly to the file to read or download.*
 
 The physiological and scientific case for love, coherence, and heart intelligence as a governance resource — not a sentiment. Draws on HeartMath Institute research on heart-rate variability coherence, the neuroscience of social bonding, and the documented field effects of group coherence.
 

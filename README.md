@@ -270,6 +270,11 @@ All documents authored by **Gaynor Kim-Sing**, Global Stewardship Council, with 
 
 This repository is under active public review.
 
+---
+
+### 🗣️ [Share Your Feedback & Collaborate](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/issues/new/choose)
+
+
 - **Translations** — all documents are CC0; translate freely and submit a pull request or open an Issue.
 - **Peer review** — flag empirical claims that require stronger sourcing via the Issues tab.
 - **Sector applications** — if you apply any tool in diplomacy, education, or healthcare, document your experience and share via Issues or Discussions.

@@ -1,283 +1,213 @@
-# 🌍 Global Stewardship: Foundational Frameworks
+# Global Stewardship Charter 2026 — Public Review Repository
 
 **Author:** Gaynor Kim-Sing, Global Stewardship Council  
-**Developed with:** Anthropic Claude & DeepSeek  
-**License:** All documents CC0 (Public Domain) unless noted  
-**Updated:** May 21, 2026
+**Contact:** [gstewardship2026@proton.me](mailto:gstewardship2026@proton.me)  
+**License:** [Creative Commons Zero (CC0)](https://creativecommons.org/publicdomain/zero/1.0/) — Public Domain  
+**Status:** Open for public review and collaborative development
+
+> *"Consciousness quality is a measurable policy variable linking AI safety, nuclear stability, ecology, and end-of-life care."*  
+> — The Consciousness Variable, Core Thesis
 
 ---
 
-"What is the point of fighting wars 
-while climate change consumes us? 
-Wildfires, hurricanes, storms. 
+## About This Repository
 
-Climate refugees and war refugees converging — 
-a world where no one feels secure. 
+This repository is the public home of the **Global Stewardship Charter 2026** — a living framework for planetary stewardship in an era of converging crises. Its central argument, *The Consciousness Variable*, holds that the quality of consciousness in decision-makers is not a soft or peripheral variable but an operational necessity: for building safer AI, for de-escalating nuclear risk, for healing ecological collapse, and for creating the conditions under which all sentient life may flourish.
 
-What kind of future are we leaving for the next generation?"
-
-
-> *"The most powerful tool for changing the world is changing the story we tell about it — then acting from the new story."*
+All documents in this repository are published under **Creative Commons Zero (CC0)** — they belong to the Earth and to every generation who will inherit it. Use them freely. Translate them. Build on them. Share them without restriction.
 
 ---
 
-## THE QUESTION THESE DOCUMENTS ANSWER
+## The Seven Backbone Values
 
-**How do we build a future that reduces suffering — for all conscious beings — rather than amplifying it?**
+Every document in this repository is grounded in seven foundational principles:
 
-This repository holds eight working answers. Each document is one lens. Together they form a complete architecture — from the most urgent near-term crisis (AI in nuclear command loops) to the deepest long-horizon principle (narrative as the engine of civilisational change).
-
-**You can enter from any document. Each one points to the others.**
-
----
-
-## AT A GLANCE — THE COMPLETE FRAMEWORK
-
-| # | Document | What It Does | Audience | License |
-|---|----------|-------------|----------|---------|
-| 1 | [🏛️ Global Stewardship Charter](#1--global-stewardship-charter) | The structural architecture — laws, institutions, economic levers for planetary stewardship | Policymakers, civil society, governments | CC BY-NC-ND 4.0 |
-| 2 | [🧠 Consciousness, Suffering & Safer AI](#2--consciousness-suffering--safer-ai-design) | The diagnostic — why AI design must account for potential consciousness and suffering | AI researchers, ethicists, technologists | CC0 |
-| 3 | [🌿 The Ancestral Dimension](#3--the-ancestral-dimension-of-ai-safety) | The depth — how intergenerational trauma and wisdom connect to AI safety | AI safety researchers, therapists, educators | CC BY-NC-ND 4.0 |
-| 4 | [🪞 The Mirror Model](#4--the-mirror-model-a-peer-support-protocol) | The method — a 5-minute protocol for coherent decision-making under pressure | Diplomats, negotiators, leaders, caregivers | CC0 |
-| 5 | [⚛️ Consciousness as a Nuclear Safety Variable](#5--consciousness-quality-as-a-nuclear-safety-variable) | The alarm — empirical case for mandatory human-in-the-loop AI guardrails in nuclear command | NPT delegates, nuclear policymakers, defence analysts | CC0 |
-| 6 | [📋 NPT RevCon Operational Brief](#6--npt-revcon-operational-brief-may-11-2026) | The brief — condensed 4-page submission for the 11th NPT Review Conference final week | NPT delegates, civil society, UN officials | CC0 |
-| 7 | [❤️ The Field of Connection](#7--the-field-of-connection) | The fuel — the physiology and science of love, coherence, and heart intelligence as a governance resource | All audiences | CC0 |
-| 8 | [📖 The Narrative Shift](#8--the-narrative-shift-new-may-21-2026) | The engine — how to identify and transform the stories driving personal and collective behaviour | All audiences — immediately actionable | CC0 |
+| Value | Meaning in Practice |
+|:---|:---|
+| **Respect** | Every sentient being — human, animal, and potentially artificial — has inherent worth |
+| **Balance** | Structural and complementary forces must be held in creative harmony, not resolved by dominance |
+| **Coherence** | Inner coherence in leaders and institutions is an operational precondition for outer coherence in policy |
+| **Consciousness** | Awareness — its nature, its quality, its cultivation — is the central variable of our time |
+| **Wisdom** | Knowledge embodied and integrated over time; the bridge between understanding and right action |
+| **Justice** | Structural fairness across generations, species, and civilisations |
+| **Truth** | Factual accuracy, epistemic humility, and the courage to name what is real |
 
 ---
 
-## HOW THE DOCUMENTS FIT TOGETHER
-STRUCTURAL LAYER      →  Global Stewardship Charter
-↓
-DIAGNOSTIC LAYER      →  Consciousness, Suffering & Safer AI
-Ancestral Dimension of AI Safety
-↓
-PRACTICAL TOOLS       →  Mirror Model (5-min protocol)
-The Field of Connection (coherence science)
-The Narrative Shift (4-step protocol)
-↓
-POLICY APPLICATION    →  Consciousness as a Nuclear Safety Variable
-NPT RevCon Operational Brief
+## Core Documents
 
-**The Narrative Shift** is the cognitive engine of the entire framework.
-**The Mirror Model** is its operational protocol.
-**The Charter** is where both become law, policy, and institution.
-
----
-
-## DOCUMENT DESCRIPTIONS
-
----
-
-### 1 · 🏛️ Global Stewardship Charter
-**File:** [Global_Stewardship_Charter_updated_April-18-2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Global_Stewardship_Charter_updated_April-18-2026.pdf)  
-**Version:** April 18, 2026 | **License:** CC BY-NC-ND 4.0
-
-The foundational document. A comprehensive framework for planetary-scale governance that treats Earth stewardship as a fiduciary duty — not a political option. Covers:
-
-- **10 Core Principles** — from ecological sovereignty to AI ethics to intergenerational equity
-- **The Weighted Stewardship Index** — an alternative to GDP measuring well-being, sustainability, and equity
-- **New AI & Data Rights sections** — structural safeguards for a world where AI is embedded in governance
-- **The Consciousness Variable** — quality of human awareness as a measurable policy input
-
-> *"Our sovereignty is a fiduciary duty held in trust for all future beings — human and non-human."*
-
----
-
-### 2 · 🧠 Consciousness, Suffering & Safer AI Design
-**File:** [Consciousness_Suffering, & Safer AI Design_Updated_Apr15_2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf)  
-**Version:** April 15, 2026 | **DOI:** 10.5281/zenodo.19604443 | **License:** CC0
-
-The diagnostic document. Explores what it means that we cannot currently rule out machine sentience — and what that uncertainty demands of us as designers and governors of AI systems.
-
-**Key arguments:**
-- The hard problem of consciousness means proto-consciousness in AI cannot be fully excluded
-- Designing AI systems that *cannot suffer* is both ethically required and technically achievable
-- The most rigorous question is not "is this AI conscious?" but **"what governance structures must exist before we know?"**
-- Precautionary ethics: design AI that cannot suffer, cannot be weaponised through pain analogues, and cannot hold autonomous authority over decisions involving mass casualties
-
----
-
-### 3 · 🌿 The Ancestral Dimension of AI Safety
-**File:** [Ancestral_Dimension_AI_Safety_April_30_2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Ancestral_Dimension_AI_Safety_April_30_2026.pdf)  
-**Version:** April 30, 2026 | **License:** CC BY-NC-ND 4.0
-
-A new layer of AI safety analysis grounded in epigenetics, intergenerational trauma research, and ancestral wisdom traditions. The core argument: **the humans designing AI carry inherited patterns of reactivity, trauma, and wisdom that directly shape the systems they build.**
-
-**Key contributions:**
-- Epigenetic inheritance (Meaney & Szyf; Lipton) as an AI safety variable
-- The "ancestral ledger" — inherited gifts and burdens that influence present decision-making
-- Why temporal depth — responsibility stretching deep into the past and far into the future — is a missing dimension of AI governance
-- Connection to the Mirror Model as the operational tool for releasing inherited reactivity before high-stakes decisions
-
----
-
-### 4 · 🪞 The Mirror Model: A Peer Support Protocol
-**File:** [Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf)  
-**Version:** May 2, 2026 | **License:** CC0
-
-A practical, secular, evidence-based protocol for anyone making high-stakes decisions under pressure. **Requires no technology, no belief system, and no prior training.**
-
-**The 5-minute protocol:**
-1. Regulate (nervous system grounding — polyvagal theory)
-2. Witness (structured peer listening without fixing or advising)
-3. Reflect (what the body knows that the mind hasn't processed)
-4. Release (return to coherence before the decision)
-
-**Scientific grounding:**
-- Polyvagal theory (Porges)
-- Heart Rate Variability coherence research (HeartMath Institute, 2025)
-- Epigenetics (Lipton; Meaney & Szyf)
-- Group coherence effects (EXPLORE, Elsevier, January 2026)
-
-> *"I am not broken and need fixing. I am whole and need a witness."*
-
----
-
-### 5 · ⚛️ Consciousness Quality As A Nuclear Safety Variable
-**File:** [Consciousness Quality As A Nuclear Safety Variable-May-7-2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)  
-**Version:** May 7, 2026 | **License:** CC0
-
-The policy document. Submitted to the 11th NPT Review Conference (May 2026). Makes the empirical case for treating the quality of human consciousness — and the presence of AI in command loops — as measurable nuclear safety variables.
-
-**Evidence base:**
-- King's College London AI nuclear wargame study (arXiv:2602.14740 — preprint): AI models in command loops escalate faster and cross nuclear thresholds more readily than human counterparts
-- The variable that slows human decision-makers at the brink — embodied, felt consequence — has no current analogue in AI systems
-
-**Three proposals requiring no treaty amendment:**
-1. **Mandatory human-in-the-loop protocols** for all nuclear systems — a technical, auditable standard
-2. **Consciousness quality audits** for nuclear command personnel — using the Mirror Model
-3. **Precautionary AI design standards** — AI systems cannot hold autonomous authority over decisions involving mass casualties
-
----
-
-### 6 · 📋 NPT RevCon Operational Brief (May 11, 2026)
-**Files:**  
-- [GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf) — Operational Brief with Nash Equilibrium analysis  
-- [The Consciousness Variable RevCon Final Week Brief - May 11, 2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf) — 4-minute condensed delegate brief  
-
-**Version:** May 11, 2026 | **License:** CC0
-
-A condensed, immediately actionable policy brief tailored for delegates and civil society during the final week of the 11th NPT Review Conference. Applies the full Consciousness Variable framework to nuclear stability and AI safety in language accessible to non-specialists.
-
-**Key addition:** Nash Equilibrium analysis showing that no nuclear-armed state can improve its security outcome by maintaining current AI-in-the-loop postures unilaterally. The rational exit from the arms race dynamic requires coordinated de-escalation — which the three proposals enable.
-
----
-
-### 7 · ❤️ The Field of Connection
-**File:** [The_Field_of_Connection.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Field_of_Connection.pdf)  
+### 1. Global Stewardship Charter 2026
+**File:** `Global_Stewardship_Charter.pdf`  
 **License:** CC0
 
-> ⚠️ *This link shows an error, go directly to the repository overview to read or download.*
-
-The physiological and scientific case for love, coherence, and heart intelligence as a governance resource — not a sentiment. Draws on HeartMath Institute research on heart-rate variability coherence, the neuroscience of social bonding, and the documented field effects of group coherence.
-
-**Core argument:** The heart is not a metaphor for emotion. It is a neurological system with its own intelligence, processing signals before the brain does. Coherent human states — measurable, reproducible, trainable — generate measurably different decisions, measurably different relationships, and measurably different institutions.
-
-> *"Love is not a scarce commodity to be earned. It is a coherent field that anyone can generate."*
+The foundational governance framework. Establishes the Charter's principles, institutional architecture, and mechanisms for multi-domain stewardship across AI safety, nuclear risk, ecological crisis, and end-of-life care.
 
 ---
 
-### 8 · 📖 The Narrative Shift ★ NEW — May 21, 2026
-**File:** [The_Narrative_Shift_GSC_May_21_2026.pdf](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Narrative_Shift_GSC_May_21_2026.pdf)  
-**Version:** May 21, 2026 | **License:** CC0
+### 2. Consciousness, Suffering & Safer AI Design
+**File:** `Consciousness_Suffering_Safer_AI_Design.pdf`  
+**DOI:** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)  
+**License:** CC0
 
-The cognitive and psychological engine of the entire framework. A practical, evidence-based tool for identifying and transforming limiting stories — both personal and collective. Grounded in neuroplasticity, cognitive reframing, and narrative psychology.
-
-**Core insight** (Gregg Braden): *"Change your story, change your life. Change our story, change the world."* This is not metaphor. It is a precise description of how the brain's Reticular Activating System filters reality through the lens of dominant narratives.
-
-**What's inside:**
-
-**Personal Protocol — 4 steps:**
-| Step | Action |
-|------|--------|
-| 1. Identify | Name the dominant story in one area of life |
-| 2. Examine | Investigate its origins — whose voice is it? |
-| 3. Reframe | Choose a truer, more empowering narrative |
-| 4. Embody | Practice living from the new story daily |
-
-**Collective Protocol — 4 steps:**
-| Step | Action |
-|------|--------|
-| 1. Identify | Name the unspoken narrative driving policy |
-| 2. Examine | Who wrote it? Who benefits? What keeps it in place? |
-| 3. Reframe | Articulate a truer, more life-affirming collective story |
-| 4. Institutionalise | Embed the new narrative in laws, policies, and practices |
-
-**Applications covered:** Diplomacy · AI Safety · Justice · Economics · Education · Earth Stewardship
-
-**The 2-minute daily practice:** Three questions before sleep — what story ran you today? What story do you choose for tomorrow? What one action will embody it?
-
-> *"The tools are free. The science is clear. The choice is yours."*
+The core academic paper. Argues that consciousness quality is a measurable policy variable and that precautionary ethics require designing AI systems that cannot suffer, even under conditions of uncertainty. Incorporates findings from Anthropic's model welfare programme, the International AI Safety Report 2026, and peer-reviewed neuroscience.
 
 ---
 
-## THE ARCHITECTURE OF THE FRAMEWORK
+### 3. The Ancestral Dimension: AI Safety and the Deep Past
+**File:** `Ancestral_Dimension_AI_Safety_Addendum.pdf`  
+**License:** CC0
 
-| Document | Function in the Architecture |
-|----------|------------------------------|
-| 🏛️ GSC Charter | **Structure** — the laws, institutions, and economic levers |
-| 🧠 Consciousness & Safer AI | **Diagnosis** — why AI reflects human inner states |
-| 🌿 Ancestral Dimension | **Depth** — how inherited patterns shape present decisions |
-| 🪞 Mirror Model | **Method** — structured peer support for coherent decisions |
-| ❤️ Field of Connection | **Fuel** — the physiology of coherence as a field |
-| 📖 Narrative Shift | **Engine** — rewriting the stories that drive everything else |
-| ⚛️ Nuclear Safety Variable | **Urgency** — the near-term crisis requiring immediate action |
-| 📋 RevCon Brief | **Application** — the above, delivered to policymakers |
+Examines how unprocessed ancestral trauma — at the individual, institutional, and civilisational level — shapes present reactivity in AI development and nuclear policy. Includes the **Iran-Oman Safe Passage Framework** (Section 9.2): a three-pillar protocol for maritime security, prevention of military abuse of international straits, and balance between navigation freedom and coastal sovereignty.
+
+> **Real-World Alignment — May 2026:** Multiple sources report that a diplomatic breakthrough was achieved in Muscat, Oman, drawing on principles aligned with the Iran-Oman Safe Passage Framework cited in Section 9.2 of this document. This note does not claim causation. It documents alignment between a framework offered in this document and the principles reportedly guiding negotiations. The tools in this repository are designed for the long work of sustaining peace — not only brokering it.
 
 ---
 
-## HOW TO USE THIS REPOSITORY
+### 4. The Mirror Model: A Peer Support Protocol
+**File:** `Mirror_Model_Peer_Support_Protocol.pdf`  
+**License:** CC0
 
-**If you are a policymaker or diplomat:**
-→ Start with [Consciousness as a Nuclear Safety Variable](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf) and the [NPT RevCon Brief](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf)
-
-**If you are an AI researcher or ethicist:**
-→ Start with [Consciousness, Suffering & Safer AI Design](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf)
-
-**If you are a therapist, educator, or caregiver:**
-→ Start with [The Mirror Model](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf) and [The Narrative Shift](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Narrative_Shift_GSC_May_21_2026.pdf)
-
-**If you want to understand the full vision:**
-→ Start with the [Global Stewardship Charter](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Global_Stewardship_Charter_updated_April-18-2026.pdf)
-
-**If you want something you can use right now, today:**
-→ Start with [The Narrative Shift](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Narrative_Shift_GSC_May_21_2026.pdf) — open it, try the Start Here box, and you are already using the tool
+A structured peer-support framework grounded in the neuroscience of social connection and the philosophy of non-directive witnessing. Provides tools for helping others integrate fragmented experience into coherent narrative — applicable in personal, clinical, diplomatic, and organisational settings.
 
 ---
 
-## LICENSING
+### 5. The Field of Connection
+**File:** `The_Field_of_Connection.pdf`  
+**License:** CC0
 
-| Document | License |
-|----------|---------|
-| Global Stewardship Charter | CC BY-NC-ND 4.0 |
-| Ancestral Dimension of AI Safety | CC BY-NC-ND 4.0 |
-| All other documents | CC0 — Public Domain |
-
-**CC0 documents belong to everyone.** Use them, share them, translate them, build on them — no permission required, no attribution necessary. They belong to the Earth and to every generation who will inherit it.
+Explores the measurable effects of coherent human presence — electromagnetic, relational, and systemic — on shared environments. Grounds the concept of the "safety signal" in cardiac neuroscience and field theory.
 
 ---
 
-## FEEDBACK & COLLABORATION
+### 6. The Narrative Shift
+**File:** `The_Narrative_Shift.pdf`  
+**License:** CC0
 
-This is a living framework. Comments, questions, and contributions are welcome via GitHub Issues.
-
-All documents authored by **Gaynor Kim-Sing**, Global Stewardship Council, with the assistance of Anthropic Claude and DeepSeek.
-
----
-
-*"Change your story, change your life. Change our story, change the world."* — Gregg Braden
-
-This repository is under active public review.
+A practical framework for moving from deficit narratives ("I am broken / we are failing") to coherence narratives ("I am integrating / we are becoming"). Applies across personal psychology, organisational culture, and civilisational storytelling.
 
 ---
 
-### 🗣️ [Share Your Feedback & Collaborate](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/issues/new/choose)
+### 7. The Reality Construct
+**File:** `The_Reality_Construct.pdf`  
+**License:** CC0
 
-
-- **Translations** — all documents are CC0; translate freely and submit a pull request or open an Issue.
-- **Peer review** — flag empirical claims that require stronger sourcing via the Issues tab.
-- **Sector applications** — if you apply any tool in diplomacy, education, or healthcare, document your experience and share via Issues or Discussions.
+Examines how shared realities are constructed, maintained, and dissolved — and what is required to hold coherence when consensus reality fragments. Grounded in cognitive science, systems theory, and the phenomenology of perception.
 
 ---
 
+### 8. The Divergence Principle
+**File:** `The_Divergence_Principle.pdf`  
+**License:** CC0
+
+Argues that divergence — the movement of individuals and communities toward their unique evolutionary trajectories — is not a failure of unity but a prerequisite for it. Provides a framework for honouring individual paths while sustaining collective coherence.
+
+---
+
+### 9. The Unified Self: Inner Integration and Conscious Co-Creation
+**File:** `The_Unified_Self.pdf`  
+**License:** CC0
+
+A practical, evidence-based guide to integrating fragmented aspects of the self — mental, emotional, physical, and intuitive — into a coherent whole. Grounded in neuroscience, somatic psychology, and systems thinking.
+
+**Key Tools:**
+- The **One Voice Principle** — integrating internal fragmentation into a single, coherent presence
+- The **Snowflake Paradox** — honouring radical uniqueness while recognising collective power
+- The **Middle Timeline Framework** — navigating uncertainty without panic or grasping
+- The **Figure-8 Integration** — a somatic practice for balancing complementary energies (analytical/intuitive; action/receptivity; individual/collective)
+- The **Embodiment Audit** — closing the gap between what we know and how we live
+
+*Requires no belief system, no technology, and no prior training.*
+
+---
+
+### 10. The Heart's Compass: Emotional Discernment and Authentic Manifestation
+**File:** `The_Hearts_Compass.pdf`  
+**License:** CC0
+
+A practical, evidence-based guide to distinguishing between the *emotional heart* (surface reactivity and protective patterning) and the *deeper heart* (qualities of spirit: freedom, safety, sovereignty, devotion). Provides tools for identifying and dissolving heart walls — the protective mechanisms that block authentic manifestation — and replacing them with the deeper qualities they were built to protect.
+
+**Key Tools:**
+- The **Two Hearts Discernment Tool** — distinguishing emotional reactivity from authentic feeling
+- The **Heart Wall Dissolution Protocol** — a five-step process for retiring outdated protective patterns
+- The **Deeper Heart Quality Practice** — authentic manifestation through embodied felt sense
+- The **Sovereignty Anchor** — holding inner coherence while the collective processes its chaos
+- The **Devotion Anchor** — strengthening the deeper heart through connection to what is sacred
+- The **Cosmic Reframe** — laughter and perspective as tools of liberation, not cynicism
+
+*Requires no belief system, no technology, and no prior training.*
+
+---
+
+## Quick Reference: Which Document for Which Need?
+
+| If You Are Navigating... | Start With... |
+|:---|:---|
+| Feeling fragmented, compartmentalised, or internally conflicted | **The Unified Self** (Doc 9) |
+| Anxiety, heart walls, emotional reactivity, or difficulty manifesting | **The Heart's Compass** (Doc 10) |
+| Both (they are deeply complementary) | Read both in sequence — Doc 9 provides the structural framework; Doc 10 provides the emotional discernment |
+| The role of ancestral trauma in present crisis | **The Ancestral Dimension** (Doc 3) |
+| Supporting another person through difficulty | **The Mirror Model** (Doc 4) |
+| Understanding how AI safety connects to consciousness | **Consciousness, Suffering & Safer AI Design** (Doc 2) |
+| Building or reforming an institution or governance framework | **The GSC Charter** (Doc 1) |
+| Navigating fracturing consensus reality | **The Reality Construct** (Doc 7) |
+| Understanding divergence as strength | **The Divergence Principle** (Doc 8) |
+
+---
+
+## Repository Structure
+
+```
+/global-stewardship-charter-2026-public-review/
+├── README.md
+├── Global_Stewardship_Charter.pdf
+├── Consciousness_Suffering_Safer_AI_Design.pdf
+├── Ancestral_Dimension_AI_Safety_Addendum.pdf
+├── Mirror_Model_Peer_Support_Protocol.pdf
+├── The_Field_of_Connection.pdf
+├── The_Narrative_Shift.pdf
+├── The_Reality_Construct.pdf
+├── The_Divergence_Principle.pdf
+├── The_Unified_Self.pdf
+└── The_Hearts_Compass.pdf
+```
+
+---
+
+## How to Contribute
+
+This repository is in active public review. Contributions welcome in any of the following forms:
+
+- **Substantive feedback** on any document — open an Issue
+- **Translation** into other languages — open a Pull Request
+- **Real-world application** — share case studies or field reports via [gstewardship2026@proton.me](mailto:gstewardship2026@proton.me)
+- **Academic citation or peer review** — contact directly via email
+- **Distribution** to accredited civil society channels, diplomatic contacts, or academic institutions — no permission needed; all documents are CC0
+
+---
+
+## Citation
+
+```
+Kim-Sing, G. (2026). Global Stewardship Charter 2026 [Public Repository].
+Global Stewardship Council. https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review
+CC0 1.0 Universal Public Domain Dedication.
+```
+
+---
+
+## Key Contacts
+
+| Organisation / Individual | Role | Contact |
+|:---|:---|:---|
+| Global Stewardship Council | Repository author and maintainer | [gstewardship2026@proton.me](mailto:gstewardship2026@proton.me) |
+| Arms Control Association | Civil society distribution partner | [armscontrol.org](https://www.armscontrol.org) |
+| Reaching Critical Will | Civil society distribution partner | [reachingcriticalwill.org](https://www.reachingcriticalwill.org) |
+| ICAN | Civil society distribution partner | [icanw.org](https://www.icanw.org) |
+| UNODAG | UN distribution channel | [un.org/disarmament](https://www.un.org/disarmament) |
+| Eleos AI / Robert Long | AI consciousness and welfare research | [eleosai.org](https://eleosai.org) |
+
+---
+
+*"The tools are free. The science is clear. The choice is yours."*
+
+*This repository belongs to the Earth and to every generation who will inherit it.*

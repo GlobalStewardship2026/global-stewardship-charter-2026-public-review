@@ -170,13 +170,10 @@ Every document in this repository is developed through the lens of the GSC's sev
 
 ---
 
-## Key Contacts & Partners
+## Key Contacts
 
 | Name / Organisation | Role | Connection to GSC Work |
 |---|---|---|
-| Kyle Fish — Anthropic | AI model welfare research | Cited in AI consciousness and safer AI design work |
-| Robert Long — Eleos AI ([robertlong.online](https://robertlong.online)) | AI consciousness research | Key interlocutor on the hard problem and precautionary design |
-| Yoshua Bengio — Mila (via cassidy.macneil@mila.quebec) | AI safety governance | Target recipient of Consciousness Variable and NPT work |
 | Arms Control Association | Civil society / NPT accreditation | Channel for NPT Review Conference submission |
 | Reaching Critical Will | Civil society / nuclear disarmament | Channel for NPT Review Conference submission |
 | ICAN | Civil society / nuclear abolition | Channel for NPT Review Conference submission |

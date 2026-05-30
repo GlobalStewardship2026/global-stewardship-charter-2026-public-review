@@ -32,6 +32,7 @@ All documents are open for comment and discussion. Feedback welcome via **Issues
 | 👧 Young people, parents & educators | Document 10 |
 | 🌱 General public & civil society | Documents 1, 9, 10, 11, 12, 13, 14 |
 | 🧘 Practitioners of reflective or contemplative work | Documents 9, 11, 12, 13, 14 |
+| 🧹 Anyone carrying guilt, shame, perfectionism, or comparison | Document 15 → Document 13 → Document 9 |
 
 ---
 
@@ -63,7 +64,7 @@ The technical and ethical case for precautionary AI design. Argues that systems 
 **Document 3 — [Ancestral Dimension AI Safety](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Ancestral_Dimension_AI_Safety_April_30_2026.pdf)**
 `Ancestral_Dimension_AI_Safety_April_30_2026.pdf` · April 2026
 
-Explores what cross-cultural wisdom traditions — indigenous, philosophical, and contemplative — contribute to AI safety frameworks that Western technical approaches have not yet incorporated. Argues that long-horizon, relational, and non-anthropocentric thinking is not a supplement to AI safety: it is a precondition for it. Read alongside Document 2 and Document 1.
+Explores what cross-cultural wisdom traditions — indigenous, philosophical, and contemplative — contribute to AI safety frameworks that Western technical approaches have not yet incorporated. Argues that long-horizon, relational, and non-anthropocentric thinking is not a supplement to AI safety: it is a precondition for it. Read alongside Documents 1 and 2.
 
 *Licence: CC0*
 
@@ -74,7 +75,7 @@ Explores what cross-cultural wisdom traditions — indigenous, philosophical, an
 **Document 4 — [Consciousness Quality as a Nuclear Safety Variable](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)**
 `Consciousness Quality As A Nuclear Safety Variable-May-7-2026.pdf` · May 2026
 
-Presents the primary academic argument that the quality of consciousness operating at the human-machine interface in nuclear command and control is a measurable safety variable. Examines how AI-assisted decision-making at escalation speeds represents a structural risk not captured by existing deterrence frameworks. Foundation for the NPT submission documents (5 and 6).
+Presents the primary academic argument that the quality of consciousness operating at the human-machine interface in nuclear command and control is a measurable safety variable. Examines how AI-assisted decision-making at escalation speeds represents a structural risk not captured by existing deterrence frameworks. Foundation for the NPT submission documents (5 and 6). Read alongside Documents 7 and 8 for the game theory dimension.
 
 *Licence: CC0*
 
@@ -85,7 +86,7 @@ The full civil society submission to the NPT Review Conference, May 2026. Submit
 
 *Licence: CC0*
 
-**Document 6 — [The Consciousness Variable RevCon Final Week Brief](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf)**
+**Document 6 — [The Consciousness Variable — RevCon Final Week Brief](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf)**
 `The Consciousness Variable RevCon Final Week Brief - May 11, 2026.pdf` · May 2026
 
 A clean, accessible summary of the Consciousness Variable argument, formatted for national delegations and civil society partners navigating conference conditions. The fastest route into the core argument for time-pressed readers. Read alongside Document 5 (full submission) and Document 4 (academic foundation).
@@ -138,11 +139,11 @@ Written in the context of real loss: **LouWanda, Mackayla, and Nikita of Brockvi
 
 Read alongside Document 2 (AI design and emotional dependency), Document 9 (peer support and authentic connection), and Documents 11–14 (identity, narrative, and inner life).
 
-**Verified sources:**
-1. Ienca, Gounder & Emanuel — "The Paradox of Trust in Health Care in the Age of Social Media" — *The Lancet*, Vol. 407, 2026 → [link](https://www.thelancet.com/article/S0140-6736(25)02556-5/abstract)
-2. Macias & Lockhart — "Influence without Insight: How Algorithmic Charisma Is Replacing Experts" — *AI & Society* (Springer), 2025 → [link](https://link.springer.com/article/10.1007/s00146-025-02706-y)
-3. Timothy Caulfield — Celebrity culture and algorithms fuel health misinformation — University of Regina, 2026 Woodrow Lloyd Lecture → [link](https://www.uregina.ca/stories/2026/03/timothy-caulfield-says-celebrity-culture-and-algorithms-fuel-health-misinformation.html)
-4. Adolescent dating violence prevention programmes: global systematic review — *The Lancet Child & Adolescent Health*, 2020 → [link](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30276-5/abstract)
+**Verified sources** *(all links checked May 2026)*:
+1. Ienca, Gounder & Emanuel — "The Paradox of Trust in Health Care in the Age of Social Media" — *The Lancet*, Vol. 407, 2026 → [thelancet.com](https://www.thelancet.com/article/S0140-6736(25)02556-5/abstract)
+2. Macias & Lockhart — "Influence without Insight: How Algorithmic Charisma Is Replacing Experts" — *AI & Society* (Springer), 2025 → [springer.com](https://link.springer.com/article/10.1007/s00146-025-02706-y)
+3. Timothy Caulfield — "The Knowledge Crisis" — University of Regina, 2026 Woodrow Lloyd Lecture → [uregina.ca](https://www.uregina.ca/stories/2026/03/timothy-caulfield-says-celebrity-culture-and-algorithms-fuel-health-misinformation.html)
+4. McNaughton Reyes et al. — "Adolescent Dating Violence Prevention Programmes: A Global Systematic Review" — *The Lancet Child & Adolescent Health*, 2021 → [thelancet.com](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30276-5/abstract)
 
 *Licence: CC0*
 
@@ -180,6 +181,25 @@ Addresses the fragmentation of identity produced by algorithmic environments, so
 
 ---
 
+### 🧹 Clearing & Inner Preparation
+
+**Document 15 — [The Clearing Protocol: A Practical Guide to Releasing Guilt, Shame, Perfectionism, and Judgment](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Clearing_Protocol_May2026.pdf)**
+`The_Clearing_Protocol_May2026.pdf` · May 2026
+
+The final structural piece in the repository toolkit — a simple, evidence-grounded method for releasing the accumulated emotional debris that blocks access to clarity, connection, and wise action. Adapted from the teachings of Dr. Lisa Thompson; translated into secular, somatic, and neuroscience-grounded language.
+
+**Contains:**
+- **The Clearing Practice** — a structured seven-step white light visualisation for releasing guilt, shame, perfectionism, and comparison; grounded in somatic psychology and the neuroscience of visualisation
+- **The Disco Ball Practice** — a six-step perspective-taking tool for navigating conflict and polarisation without judgment; immediately applicable to diplomacy, education, family, and civic life
+- **The Highest Timeline Practice** — a mental rehearsal method for clarifying and embodying one's highest potential; grounded in sports psychology and clinical visualisation research
+- **The Heart Expansion Practice** — a compassion cultivation exercise grounded in HeartMath Institute research on cardiac coherence
+
+**How it fits the framework:** If The Heart's Compass (Document 13) teaches discernment, this document clears the debris that makes discernment difficult. Together with the Mirror Model (Document 9) and The Heart's Compass (Document 13), it forms a complete inner toolkit: *clear → discern → support*.
+
+**Source credit:** Clearing practices and Disco Ball metaphor adapted from Dr. Lisa Thompson, "Access Higher Dimensions for Embodied Mastery," New Earth One Network, [YouTube 26 May 2026](https://www.youtube.com/watch?v=n47_1yYx8Fk). Scientific grounding and GSC integration by Gaynor Kim-Sing.
+
+*Licence: CC0*
+
 ## Core Values
 
 Every document in this repository is developed through the lens of the GSC's seven backbone values:
@@ -206,7 +226,7 @@ Every document in this repository is developed through the lens of the GSC's sev
 
 ---
 
-## Key Contacts & Partners
+## Civil Society Organizations
 
 | Name / Organisation | Role | Connection to GSC Work |
 |---|---|---|
@@ -229,3 +249,5 @@ She works in collaboration with AI systems as co-creative research and policy to
 
 *Global Stewardship Council · gstewardship2026@proton.me*
 *Stewardship of the earth and all sentient beings — human, animal, and potentially artificial.*
+
+*Licence: CC0*

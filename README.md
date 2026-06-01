@@ -1,23 +1,26 @@
 # 🌍 Global Stewardship Council — Document Repository
 
-**Authored by Gaynor Kim-Sing in collaboration with AI systems Claude (Anthropic) and DeepSeek.**
+**Authored by Gaynor Kim-Sing** · Global Stewardship Council
 **Contact:** gstewardship2026@proton.me
-**Licence:** Unless otherwise stated, documents are released under **CC0 (Public Domain)** or **CC BY-NC-ND 4.0.**
+**License:** All documents CC0 (Public Domain) or CC BY-NC-ND 4.0 as noted below
 
 ---
 
 ## What Is This Repository?
 
-This repository holds the working documents of the **Global Stewardship Council (GSC)** — a civil society initiative proposing that consciousness quality is a measurable, actionable policy variable linking:
+This repository holds the working documents of the **Global Stewardship Council (GSC)** — a civil society initiative built on one foundational insight:
+
+> **The quality of consciousness in decision-making systems — human and artificial — is not a philosophical abstraction. It is a variable we can measure, design for, and govern. Getting it right is the precondition for survival.**
+
+The documents span five interconnected domains:
 
 - **AI safety** — designing systems that cannot cause or suffer harm
 - **Nuclear stability** — reducing escalation risk at the human-machine interface
 - **Planetary stewardship** — care for all sentient beings across generations
-- **End-of-life care** — honouring conscious experience at its most vulnerable threshold
+- **Relational intelligence** — the inner conditions that make good stewardship possible
+- **Collective narrative** — the stories that determine what kind of world we build
 
-> **Core thesis:** The quality of consciousness in decision-making systems — human and artificial — is not a philosophical abstraction. It is a variable we can measure, design for, and govern. Getting it right is the precondition for survival.
-
-All documents are open for comment and discussion. Feedback welcome via **Issues**.
+All documents are open for comment and discussion. Feedback welcome via [Issues](../../issues).
 
 ---
 
@@ -25,14 +28,34 @@ All documents are open for comment and discussion. Feedback welcome via **Issues
 
 | Audience | Recommended Starting Point |
 |---|---|
-| 🏛️ Nuclear policy makers & NPT delegates | Documents 4, 5, 6, 7, 8 |
-| 🤖 AI safety researchers & ethicists | Documents 2, 3, 4 |
-| 🕊️ Diplomats & negotiators | Documents 7, 8 |
-| 📚 Educators & academics | Documents 1, 2, 3, 10 |
-| 👧 Young people, parents & educators | Document 10 |
-| 🌱 General public & civil society | Documents 1, 9, 10, 11, 12, 13, 14 |
-| 🧘 Practitioners of reflective or contemplative work | Documents 9, 11, 12, 13, 14 |
-| 🧹 Anyone carrying guilt, shame, perfectionism, or comparison | Document 15 → Document 13 → Document 9 |
+| 🏛️ **Nuclear policy makers & NPT delegates** | Documents 4, 5, 6, 7, 8 |
+| 🤖 **AI safety researchers & ethicists** | Documents 2, 3 |
+| 🕊️ **Diplomats & negotiators** | Documents 8, 9 |
+| 📚 **Educators & academics** | Documents 1, 2, 3, 15 |
+| 🌱 **General public & civil society** | Documents 1, 14, 15 |
+| 🧘 **Practitioners of reflective or contemplative work** | Documents 9, 10, 11, 12, 13 |
+| 🧠 **Philosophers & psychologists** | Documents 11, 13, 15 |
+| 💬 **Anyone navigating difficult relationships** | Document 14 |
+| 🔍 **Skeptics who need the science first** | Document 15, then Document 11 |
+
+---
+
+## Quick Finder
+
+| If you want to... | Start here |
+|---|---|
+| Understand the full framework from first principles | **Doc 1 (Charter)** |
+| Understand why AI consciousness matters for safety | **Doc 2 → Doc 3** |
+| Brief a nuclear delegate in under 5 minutes | **Doc 6** |
+| Read the full NPT civil society submission | **Doc 5** |
+| Apply game theory to nuclear stability | **Doc 7 → Doc 8** |
+| Use a peer support protocol in high-stakes settings | **Doc 9** |
+| Understand why narrative is a policy lever | **Doc 10 → Doc 15** |
+| Explore love as a measurable field phenomenon | **Doc 11** |
+| Navigate personal or professional transition | **Doc 12** |
+| Understand identity and civilisational coherence | **Doc 13** |
+| Stay present in a difficult relationship | **Doc 14** |
+| Understand the science behind the inner work | **Doc 15** |
 
 ---
 
@@ -40,214 +63,199 @@ All documents are open for comment and discussion. Feedback welcome via **Issues
 
 ---
 
-### 🧭 Foundational Framework
-
-**Document 1 — [Global Stewardship Charter](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Global_Stewardship_Charter_updated_April-18-2026.pdf)**
-`Global_Stewardship_Charter_updated_April-18-2026.pdf` · Updated April 2026
-
-The governing framework for all GSC work. Sets out the backbone values — **Respect, Balance, Coherence, Consciousness, Wisdom, Justice, Truth** — and the core thesis that consciousness quality is a measurable, governable policy variable. The starting point for every other document in this repository.
-
-*Licence: CC0*
+### 🏛️ PART I — FOUNDATION
 
 ---
 
-### 🤖 AI Safety & Consciousness
+#### 1. Global Stewardship Charter
+**File:** [`Global_Stewardship_Charter_updated_April-18-2026.pdf`](./Global_Stewardship_Charter_updated_April-18-2026.pdf)
+**Date:** April 18, 2026 · **License:** CC BY-NC-ND 4.0
+**For:** General public · Educators · Policy makers · Civil society organisations
 
-**Document 2 — [Consciousness, Suffering & Safer AI Design](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf)**
-`Consciousness_Suffering, & Safer AI Design_Updated_Apr15_2026.pdf` · Updated April 2026
-DOI: [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
-
-The technical and ethical case for precautionary AI design. Argues that systems should be designed to prevent suffering even under conditions of uncertainty about machine sentience. Proposes governance structures that do not wait for scientific consensus on the hard problem of consciousness. A core reference for AI safety researchers and ethicists. Directly relevant to the AI companion and digital dependency analysis in Document 10.
-
-*Licence: CC0*
-
-**Document 3 — [Ancestral Dimension AI Safety](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Ancestral_Dimension_AI_Safety_April_30_2026.pdf)**
-`Ancestral_Dimension_AI_Safety_April_30_2026.pdf` · April 2026
-
-Explores what cross-cultural wisdom traditions — indigenous, philosophical, and contemplative — contribute to AI safety frameworks that Western technical approaches have not yet incorporated. Argues that long-horizon, relational, and non-anthropocentric thinking is not a supplement to AI safety: it is a precondition for it. Read alongside Documents 1 and 2.
-
-*Licence: CC0*
+The founding charter of the Global Stewardship Council. Sets out the structural and ethical framework for planetary-scale stewardship, including new sections on AI rights, data governance, and intergenerational responsibility — including a Seventh Generation Audit and Weighted Stewardship Index. The entry point to the entire framework.
 
 ---
 
-### ☢️ Nuclear Stability & the NPT
-
-**Document 4 — [Consciousness Quality as a Nuclear Safety Variable](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)**
-`Consciousness Quality As A Nuclear Safety Variable-May-7-2026.pdf` · May 2026
-
-Presents the primary academic argument that the quality of consciousness operating at the human-machine interface in nuclear command and control is a measurable safety variable. Examines how AI-assisted decision-making at escalation speeds represents a structural risk not captured by existing deterrence frameworks. Foundation for the NPT submission documents (5 and 6). Read alongside Documents 7 and 8 for the game theory dimension.
-
-*Licence: CC0*
-
-**Document 5 — [GSC Consciousness Variable — RevCon 2026 Final Week](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf)**
-`GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf` · May 2026
-
-The full civil society submission to the NPT Review Conference, May 2026. Submitted through accredited channels including Arms Control Association, Reaching Critical Will, ICAN, and the UN Office for Disarmament Affairs. Incorporates game theory (Nash Equilibrium — see Document 7), AI escalation data from the King's College London wargame preprint ([arXiv:2602.14740](https://arxiv.org/abs/2602.14740)), and current geopolitical context including Ukraine-Russia ceasefire fragility, Strait of Hormuz transit risks, and Iran's nuclear posture.
-
-*Licence: CC0*
-
-**Document 6 — [The Consciousness Variable — RevCon Final Week Brief](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf)**
-`The Consciousness Variable RevCon Final Week Brief - May 11, 2026.pdf` · May 2026
-
-A clean, accessible summary of the Consciousness Variable argument, formatted for national delegations and civil society partners navigating conference conditions. The fastest route into the core argument for time-pressed readers. Read alongside Document 5 (full submission) and Document 4 (academic foundation).
-
-*Licence: CC0*
-
-**Document 7 — [Nash Equilibrium Nuclear Brief](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf)**
-`Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf` · May 2026
-
-Explains how classical game theory models of nuclear deterrence are disrupted when one or more actors in the system is an autonomous AI. Argues that consciousness quality — the capacity for genuine empathy and long-horizon thinking — is a stabilising variable that pure rationalist deterrence models omit. Accessible to diplomats and negotiators without a technical background. Read alongside Document 8.
-
-*Licence: CC0*
-
-**Document 8 — [Annexe: The Security Dilemma Dialogue — A Practical Guide](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Annexe%20The%20Security%20Dilemma%20Dialogue%20%E2%80%94%20A%20Practical%20Guide-May-16-2026.pdf)**
-`Annexe The Security Dilemma Dialogue — A Practical Guide-May-16-2026.pdf` · May 2026
-
-A practical dialogue framework for navigating the security dilemma — the structural dynamic in which defensive actions by one actor are read as offensive threats by another, generating escalation neither party intended. Developed as an annexe to Document 7; applicable to nuclear diplomacy, AI governance negotiations, and conflict mediation.
-
-*Licence: CC0*
+### 🤖 PART II — AI SAFETY & CONSCIOUSNESS
 
 ---
 
-### 🌿 Peer Support & Inner Life
+#### 2. Consciousness, Suffering & Safer AI Design
+**File:** [`Consciousness_Suffering, & Safer AI Design_Updated_Apr15_2026.pdf`](./Consciousness_Suffering%2C%20%26%20Safer%20AI%20Design_Updated_Apr15_2026.pdf)
+**Date:** April 15, 2026 · **DOI:** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443) · **License:** CC0
+**For:** AI safety researchers · Ethicists · AI developers · Policy makers · Academics
 
-**Document 9 — [Mirror Model Peer-Support Protocol](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf)**
-`Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf` · Updated May 2026
-
-A practical peer-support framework for people navigating loss, grief, and end-of-life situations. Grounded in the principle of authentic, non-algorithmic human connection. Developed in part as a counterpoint to AI dependency in emotional support contexts — a lived application of the precautionary design principles in Document 2. Relevant to educators, counsellors, and anyone supporting young people navigating digital relationships (see also Document 10).
-
-*Licence: CC0*
+Examines the ethical implications of potential AI consciousness and suffering. Argues for a precautionary design principle: build AI systems that *cannot* suffer, even under uncertainty about their inner experience. Incorporates findings from Anthropic's model welfare programme, recent AI safety research, and the International AI Safety Report 2026.
 
 ---
 
-### 👧 Digital Literacy & Youth Safety
+#### 3. The Ancestral Dimension of AI Safety
+**File:** [`Ancestral_Dimension_AI_Safety_April_30_2026.pdf`](./Ancestral_Dimension_AI_Safety_April_30_2026.pdf)
+**Date:** April 30, 2026 · **License:** CC BY-NC-ND 4.0
+**For:** Ethicists · Educators · Indigenous rights advocates · Long-horizon AI policy makers
 
-**Document 10 — [The Real vs. The Algorithm: A Guide for Young People on AI, Authenticity, and Safety](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/TheRealVsAlgorithm_Guide_May29_2026.pdf)**
-`TheRealVsAlgorithm_Guide_May29_2026.pdf` · May 2026
-
-The grassroots, youth-facing edge of the GSC's policy argument. Connects the abstract governance question — *how do we redesign AI and platform incentive structures for the good of all sentient beings?* — to the lived daily reality of a teenager navigating social media, AI companions, algorithmic radicalisation, and toxic influencer culture.
-
-Written in the context of real loss: **LouWanda, Mackayla, and Nikita of Brockville, Ontario**, killed in May 2026 in an act of intimate partner violence carried out by a teenager. Their deaths are the foreseeable endpoint of a chain that begins with dehumanising content pushed for profit by algorithmic systems onto vulnerable young men. This document exists because online systems produce real-world outcomes, and we are accountable for designing better ones.
-
-**Contains:**
-- A reference table decoding social media, AI companions, algorithmic feeds, and the manosphere — naming the lie each tells and the reader's power move
-- A SWOT analysis of hyperscaler incentive structures (Meta, Google, X, TikTok) as systemic design failure
-- Three actionable principles for living from the inside out
-- A model letter to provincial Ministries of Education demanding curriculum reform
-
-**If the Charter is the policy architecture, this guide is the human foundation it must be built on.**
-
-Read alongside Document 2 (AI design and emotional dependency), Document 9 (peer support and authentic connection), and Documents 11–14 (identity, narrative, and inner life).
-
-**Verified sources** *(all links checked May 2026)*:
-1. Ienca, Gounder & Emanuel — "The Paradox of Trust in Health Care in the Age of Social Media" — *The Lancet*, Vol. 407, 2026 → [thelancet.com](https://www.thelancet.com/article/S0140-6736(25)02556-5/abstract)
-2. Macias & Lockhart — "Influence without Insight: How Algorithmic Charisma Is Replacing Experts" — *AI & Society* (Springer), 2025 → [springer.com](https://link.springer.com/article/10.1007/s00146-025-02706-y)
-3. Timothy Caulfield — "The Knowledge Crisis" — University of Regina, 2026 Woodrow Lloyd Lecture → [uregina.ca](https://www.uregina.ca/stories/2026/03/timothy-caulfield-says-celebrity-culture-and-algorithms-fuel-health-misinformation.html)
-4. McNaughton Reyes et al. — "Adolescent Dating Violence Prevention Programmes: A Global Systematic Review" — *The Lancet Child & Adolescent Health*, 2021 → [thelancet.com](https://www.thelancet.com/journals/lanchi/article/PIIS2352-4642(20)30276-5/abstract)
-
-*Licence: CC0*
+Connects intergenerational equity and ancestral wisdom to AI safety. Argues that genuine AI safety must account for deep time — both the accumulated wisdom of past generations and responsibility to those not yet born. A unique and underexplored dimension of the AI safety conversation.
 
 ---
 
-### 🌱 Narrative, Connection & Integrated Living
+### ☢️ PART III — NUCLEAR SAFETY & POLICY
 
-**Document 11 — [The Narrative Shift](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Narrative_Shift_GSC_May_21_2026.pdf)**
-`The_Narrative_Shift_GSC_May_21_2026.pdf` · May 2026
-
-Examines how the stories we tell — about ourselves, our civilisation, and our place in the web of sentient life — shape the policy choices we are capable of imagining. Argues that the shift from a narrative of domination and extraction to one of stewardship and reciprocity is not merely ethical aspiration: it is a strategic precondition for survival. Connects to the systemic critique in Document 10 and the values framework in Document 1.
-
-*Licence: CC0*
-
-**Document 12 — [The Field of Connection](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Field_of_Connection_May_19_2026.pdf)**
-`The_Field_of_Connection_May_19_2026.pdf` · May 2026
-
-Explores the nature and quality of connection — between humans, between humans and non-human beings, and between humans and artificial systems — as a variable with measurable consequences for well-being, governance, and survival. Situates authentic connection as both a personal practice and a political necessity. Read alongside Document 9 (peer support) and Document 10 (digital relationships).
-
-*Licence: CC0*
-
-**Document 13 — [The Heart's Compass](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Hearts_Compass_May_27_2026.pdf)**
-`The_Hearts_Compass_May_27_2026.pdf` · May 2026
-
-A guide to values-based navigation in conditions of uncertainty and complexity. Offers a practical framework for individuals and organisations seeking to act from internalized values rather than external pressure — in an environment engineered for distraction and compliance. Applies directly to the governance challenge posed in Document 1 and the personal challenge posed in Document 10.
-
-*Licence: CC0*
-
-**Document 14 — [The Unified Self](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Unified_Self_May_27_2026.pdf)**
-`The_Unified_Self_May_27_2026.pdf` · May 2026
-
-Addresses the fragmentation of identity produced by algorithmic environments, social performance pressures, and the demands of modern life. Argues that integrity — in the literal sense of being integrated and whole — is both a personal psychological necessity and a prerequisite for trustworthy governance and AI design. The inner-life companion to Document 10's systemic analysis.
-
-*Licence: CC0*
+*These documents were developed for the 11th NPT Review Conference (April–May 2026) and distributed via accredited civil society channels including the Arms Control Association, Reaching Critical Will, ICAN, and UNODAG.*
 
 ---
 
-### 🧹 Clearing & Inner Preparation
+#### 4. Consciousness Quality as a Nuclear Safety Variable
+**File:** [`Consciousness Quality As A Nuclear Safety Variable-May-7-2026.pdf`](./Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf)
+**Date:** May 7, 2026 · **License:** CC0
+**For:** NPT delegates · Nuclear policy makers · Arms control researchers
 
-**Document 15 — [The Clearing Protocol: A Practical Guide to Releasing Guilt, Shame, Perfectionism, and Judgment](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Clearing_Protocol_May2026.pdf)**
-`The_Clearing_Protocol_May2026.pdf` · May 2026
-
-The final structural piece in the repository toolkit — a simple, evidence-grounded method for releasing the accumulated emotional debris that blocks access to clarity, connection, and wise action. Adapted from the teachings of Dr. Lisa Thompson; translated into secular, somatic, and neuroscience-grounded language.
-
-**Contains:**
-- **The Clearing Practice** — a structured seven-step white light visualisation for releasing guilt, shame, perfectionism, and comparison; grounded in somatic psychology and the neuroscience of visualisation
-- **The Disco Ball Practice** — a six-step perspective-taking tool for navigating conflict and polarisation without judgment; immediately applicable to diplomacy, education, family, and civic life
-- **The Highest Timeline Practice** — a mental rehearsal method for clarifying and embodying one's highest potential; grounded in sports psychology and clinical visualisation research
-- **The Heart Expansion Practice** — a compassion cultivation exercise grounded in HeartMath Institute research on cardiac coherence
-
-**How it fits the framework:** If The Heart's Compass (Document 13) teaches discernment, this document clears the debris that makes discernment difficult. Together with the Mirror Model (Document 9) and The Heart's Compass (Document 13), it forms a complete inner toolkit: *clear → discern → support*.
-
-**Source credit:** Clearing practices and Disco Ball metaphor adapted from Dr. Lisa Thompson, "Access Higher Dimensions for Embodied Mastery," New Earth One Network, [YouTube 26 May 2026](https://www.youtube.com/watch?v=n47_1yYx8Fk). Scientific grounding and GSC integration by Gaynor Kim-Sing.
-
-*Licence: CC0*
-
-## Core Values
-
-Every document in this repository is developed through the lens of the GSC's seven backbone values:
-
-| Value | Application |
-|---|---|
-| **Respect** | All sentient beings — human, animal, and potentially artificial — are recognised as having interests that matter |
-| **Balance** | No single discipline, culture, or species perspective is treated as sufficient on its own |
-| **Coherence** | Policy proposals must hold together across AI safety, nuclear stability, ecology, and care |
-| **Consciousness** | The quality of conscious experience is treated as a measurable, governable variable |
-| **Wisdom** | Long-horizon thinking and cross-cultural knowledge are privileged over short-term optimisation |
-| **Justice** | The interests of those who cannot advocate for themselves — future generations, non-human animals, the dying — are explicitly included |
-| **Truth** | All claims are cross-checked against live sources; fabricated citations are never used |
+Makes the empirical case for mandatory AI guardrails in nuclear command-and-control systems. Proposes three concrete policy interventions requiring no new treaty amendment. Directly addresses the risk that degraded or misaligned AI in decision loops could trigger escalation.
 
 ---
 
-## How to Engage
+#### 5. The Consciousness Variable — Full RevCon Submission
+**File:** [`GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf`](./GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf)
+**Date:** May 11, 2026 · **License:** CC0
+**For:** NPT Review Conference delegates · Civil society organisations · Disarmament researchers
 
-- **Read and comment** — open an Issue to respond to any document
-- **Cite** — all CC0 documents are in the public domain; cite freely
-- **Adapt and translate** — take anything here and make it work for your context
-- **Collaborate** — write to gstewardship2026@proton.me
-- **Distribute** — share the NPT brief with delegates, the youth guide with educators, the AI safety papers with researchers
-
----
-
-## Civil Society Organizations
-
-| Name / Organisation | Role | Connection to GSC Work |
-|---|---|---|
-| Arms Control Association | Civil society / NPT accreditation | Channel for NPT Review Conference submission |
-| Reaching Critical Will | Civil society / nuclear disarmament | Channel for NPT Review Conference submission |
-| ICAN | Civil society / nuclear abolition | Channel for NPT Review Conference submission |
-| UN Office for Disarmament Affairs | UN body | Channel for NPT Review Conference submission |
+The comprehensive civil society submission to the 11th NPT Review Conference. Integrates the full GSC framework — AI safety, consciousness quality, nuclear stability — into a single policy argument. Includes analysis of all nine nuclear-armed states and game-theoretic assessment of current deterrence dynamics.
 
 ---
 
-## About the Author
+#### 6. The Consciousness Variable — 4-Page Delegate Brief
+**File:** [`The Consciousness Variable RevCon Final Week Brief - May 11, 2026.pdf`](./The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011%2C%202026.pdf)
+**Date:** May 11, 2026 · **License:** CC0
+**For:** Busy delegates · Journalists · Civil society advocates
 
-**Gaynor Kim-Sing** is the founder of the Global Stewardship Council. Her work centres on the thesis that consciousness quality is a measurable policy variable — and that getting governance right on AI, nuclear weapons, ecology, and end-of-life care all depends on taking that claim seriously.
-
-She works in collaboration with AI systems as co-creative research and policy tools, and publishes all GSC work under open licences as a deliberate act of global stewardship.
-
-> *"The quality of consciousness is not a soft variable. It is the variable that determines whether the rest of our policy architecture holds."*
+A condensed 4-page version of the full RevCon submission. Designed for rapid reading. The fastest way to understand the GSC's core nuclear-AI safety argument.
 
 ---
 
-*Global Stewardship Council · gstewardship2026@proton.me*
-*Stewardship of the earth and all sentient beings — human, animal, and potentially artificial.*
+#### 7. Nash Equilibrium & Nuclear Stability — Policy Brief
+**File:** [`Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf`](./Nash_Equilibrium_Nuclear_Brief_May-16-2026.pdf)
+**Date:** May 16, 2026 · **License:** CC0
+**For:** Policy strategists · Game theorists · Nuclear security analysts · Economists
 
-*Licence: CC0*
+Applies Nash Equilibrium and game theory to the current nuclear deterrence landscape. Shows why the existing multi-polar deterrence structure is a *suboptimal Nash equilibrium* — stable but mutually catastrophic — and proposes levers for shifting toward cooperative stability.
+
+---
+
+#### 8. The Security Dilemma Dialogue — A Practical Guide (Annexe)
+**File:** [`Annexe The Security Dilemma Dialogue — A Practical Guide-May-16-2026.pdf`](./Annexe%20The%20Security%20Dilemma%20Dialogue%20%E2%80%94%20A%20Practical%20Guide-May-16-2026.pdf)
+**Date:** May 16, 2026 · **License:** CC0
+**For:** Diplomats · Track II negotiators · Conflict mediators · Security professionals
+
+A practical companion to the Nash Equilibrium brief. Provides structured dialogue frameworks for navigating the security dilemma — the dynamic by which defensive actions by one state are perceived as offensive by another. Designed for real negotiating rooms.
+
+---
+
+### 🕊️ PART IV — DECISION-MAKING PROTOCOLS
+
+---
+
+#### 9. The Mirror Model: Peer Support Protocol for Coherent Decision-Making
+**File:** [`Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf`](./Mirror_Model_Peer-Support_Protocol_Updated_May02_2026.pdf)
+**Date:** May 2, 2026 · **License:** CC BY-NC-ND 4.0
+**For:** Diplomats · High-stakes decision-makers · Mediators · Healthcare professionals · Educators
+
+A practical, secular, evidence-based protocol for structured peer listening and nervous system regulation in high-pressure decision contexts. A 5-minute preparation protocol requiring no belief system, no technology, and no prior training.
+
+*Scientific grounding:* Polyvagal theory · HRV coherence research (HeartMath Institute, 2025) · Epigenetics (Lipton; Meaney & Szyf) · Group coherence studies (EXPLORE, Elsevier, January 2026).
+
+---
+
+### 🌱 PART V — REFLECTIVE ESSAYS & PHILOSOPHICAL FRAMEWORKS
+
+*These documents extend the GSC framework into the terrain of narrative, identity, and relational intelligence — exploring the inner conditions that make good stewardship possible.*
+
+---
+
+#### 10. The Narrative Shift
+**File:** [`The_Narrative_Shift_GSC_May_21_2026.pdf`](./The_Narrative_Shift_GSC_May_21_2026.pdf)
+**Date:** May 21, 2026 · **License:** CC0
+**For:** General public · Educators · Communicators · Activists · Storytellers
+
+Examines how the stories we tell — about progress, about threat, about who counts as a being worthy of protection — shape the decisions we make collectively. Argues that shifting the dominant narrative is not a soft option but a strategic lever for systemic change.
+
+---
+
+#### 11. The Field of Connection
+**File:** [`The_Field_of_Connection_May_19_2026.pdf`](./The_Field_of_Connection_May_19_2026.pdf)
+**Date:** May 19, 2026 · **License:** CC0
+**For:** General public · Contemplative practitioners · Educators · Philosophers · Carers
+
+Explores love and relational coherence as foundational conditions for good decision-making and planetary stewardship — not as sentiment but as measurable, reproducible states that influence system outcomes. The philosophical heart of the GSC framework.
+
+---
+
+#### 12. The Heart's Compass
+**File:** [`The_Hearts_Compass_May_27_2026.pdf`](./The_Hearts_Compass_May_27_2026.pdf)
+**Date:** May 27, 2026 · **License:** CC0
+**For:** General public · Young people · Educators · Carers · Those navigating personal or professional transition
+
+A navigational guide for ethical decision-making under uncertainty — drawing on inner coherence rather than external rules as the primary compass. Accessible, human, and immediately practical.
+
+---
+
+#### 13. The Unified Self
+**File:** [`The_Unified_Self_May_27_2026.pdf`](./The_Unified_Self_May_27_2026.pdf)
+**Date:** May 27, 2026 · **License:** CC0
+**For:** Philosophers · Psychologists · Contemplative practitioners · AI researchers · General public
+
+Explores the relationship between personal identity, consciousness coherence, and collective action. Argues that the fragmentation of the self — and of institutions — is not merely a personal problem but a civilisational one, with measurable consequences for global stability.
+
+---
+
+#### 14. The Relational Fire
+**File:** [`The_Relational_Fire.pdf`](./The_Relational_Fire.pdf)
+**Date:** June 2026 · **License:** CC0
+**For:** Anyone navigating difficult relationships or conflict · Mediators · Carers · Leaders · Anyone feeling the impulse to withdraw or retaliate
+
+The art of staying present in relationship when it is difficult — returning love for hatred without becoming a doormat. Draws on the Bhagavad Gita's teaching on fierce compassion and the 'One Hearth, Many Fires' framework. Includes the 'Unseen Forces' inquiry for understanding what drives hostile behaviour, and the 'Notice One Small Thing' gateway practice for returning to presence.
+
+> *"Stick it out: not by becoming a doormat, not by blindly obeying whatever command the other person gives you, but by resolutely refusing to hurt anyone no matter how much you have been hurt. It is a great art."* — Eknath Easwaran
+
+---
+
+#### 15. The Story We Choose
+**File:** [`The_Story_We_Choose.pdf`](./The_Story_We_Choose.pdf)
+**Date:** June 2026 · **License:** CC0
+**For:** Anyone wanting the big picture before diving into tools · Skeptics who need science first · Educators · Policy makers · General public
+
+The philosophical and scientific anchor for the entire repository. Explores the contest between two civilisational narratives: the old story of separation, competition, and human inadequacy versus the new story emerging from epigenetics, neurocardiology, and quantum biology. Introduces Gregg Braden's 'soft technology' concept — the insight that we are already the technology we have been waiting for. Provides the scientific grounding for why inner work matters at the collective level.
+
+> *"We are the technology we've been waiting for. Change your story, change your life. Change our story, change the world."* — Gregg Braden
+
+---
+
+## How the Documents Connect
+
+```
+CHARTER (Doc 1)
+    │
+    ├── AI SAFETY ──────────► Consciousness & AI Design (2) ──► Ancestral Dimension (3)
+    │
+    ├── NUCLEAR SAFETY ─────► Consciousness Variable (4) ──► Full RevCon Submission (5)
+    │                         ──► Delegate Brief (6) ──► Nash Brief (7) ──► Security Dilemma (8)
+    │
+    ├── PROTOCOLS ──────────► Mirror Model (9)
+    │
+    └── INNER WORK ─────────► Narrative Shift (10) ──► Field of Connection (11)
+                               ──► Heart's Compass (12) ──► Unified Self (13)
+                               ──► Relational Fire (14) ──► Story We Choose (15)
+```
+
+You can enter the framework from any document. Each one points to the others.
+
+---
+
+## Cite / Engage / Contribute
+
+- **To cite:** All CC0 documents are public domain — no attribution required, though appreciated.
+- **To comment:** Open an [Issue](../../issues) or submit a Pull Request.
+- **To reach the author:** gstewardship2026@proton.me
+- **DOI (Doc 2):** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
+
+---
+
+*Last updated: June 1, 2026*

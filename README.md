@@ -30,13 +30,17 @@ All documents are open for comment and discussion. Feedback welcome via [Issues]
 |---|---|
 | 🏛️ **Nuclear policy makers & NPT delegates** | Documents 4, 5, 6, 7, 8 |
 | 🤖 **AI safety researchers & ethicists** | Documents 2, 3 |
-| 🕊️ **Diplomats & negotiators** | Documents 8, 9 |
-| 📚 **Educators & academics** | Documents 1, 2, 3, 15 |
-| 🌱 **General public & civil society** | Documents 1, 14, 15 |
-| 🧘 **Practitioners of reflective or contemplative work** | Documents 9, 10, 11, 12, 13 |
+| 🕊️ **Diplomats & negotiators** | Documents 8, 9, 17 |
+| 📚 **Educators & academics** | Documents 1, 2, 3, 15, 16 |
+| 🧒 **Young people & those who work with them** | Document 16 |
+| 🌱 **General public & civil society** | Documents 1, 15, 16 |
+| 🧘 **Practitioners of reflective or contemplative work** | Documents 9, 17, 18 |
 | 🧠 **Philosophers & psychologists** | Documents 11, 13, 15 |
-| 💬 **Anyone navigating difficult relationships** | Document 14 |
-| 🔍 **Skeptics who need the science first** | Document 15, then Document 11 |
+| 💬 **Anyone navigating difficult relationships or conflict** | Documents 14, 17 |
+| 🔍 **Skeptics who need the science first** | Document 15, then Documents 11, 18 |
+| 🧭 **Anyone told they are "too sensitive"** | Document 18 |
+| 🔄 **Anyone ready to release guilt, shame, or perfectionism** | Document 17 |
+| 📱 **Those questioning their relationship with technology** | Document 16 |
 
 ---
 
@@ -56,6 +60,11 @@ All documents are open for comment and discussion. Feedback welcome via [Issues]
 | Understand identity and civilisational coherence | **Doc 13** |
 | Stay present in a difficult relationship | **Doc 14** |
 | Understand the science behind the inner work | **Doc 15** |
+| Help a young person navigate social media and AI safely | **Doc 16** |
+| Release guilt, shame, perfectionism, or comparison | **Doc 17** |
+| Use your body as a navigation system | **Doc 18** |
+| Turn sensitivity from a burden into a strength | **Doc 18 → Doc 12** |
+| Prepare before supporting someone else | **Doc 17 → Doc 9** |
 
 ---
 
@@ -72,7 +81,7 @@ All documents are open for comment and discussion. Feedback welcome via [Issues]
 **Date:** April 18, 2026 · **License:** CC BY-NC-ND 4.0
 **For:** General public · Educators · Policy makers · Civil society organisations
 
-The founding charter of the Global Stewardship Council. Sets out the structural and ethical framework for planetary-scale stewardship, including new sections on AI rights, data governance, and intergenerational responsibility — including a Seventh Generation Audit and Weighted Stewardship Index. The entry point to the entire framework.
+The founding charter of the Global Stewardship Council. Sets out the structural and ethical framework for planetary-scale stewardship, including sections on AI rights, data governance, and intergenerational responsibility — including a Seventh Generation Audit and Weighted Stewardship Index. The entry point to the entire framework.
 
 ---
 
@@ -85,7 +94,7 @@ The founding charter of the Global Stewardship Council. Sets out the structural 
 **Date:** April 15, 2026 · **DOI:** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443) · **License:** CC0
 **For:** AI safety researchers · Ethicists · AI developers · Policy makers · Academics
 
-Examines the ethical implications of potential AI consciousness and suffering. Argues for a precautionary design principle: build AI systems that *cannot* suffer, even under uncertainty about their inner experience. Incorporates findings from Anthropic's model welfare programme, recent AI safety research, and the International AI Safety Report 2026.
+Examines the ethical implications of potential AI consciousness and suffering. Argues for a precautionary design principle: build AI systems that *cannot* suffer, even under uncertainty about their inner experience. Incorporates findings from Anthropic's model welfare programme and the International AI Safety Report 2026.
 
 ---
 
@@ -94,7 +103,7 @@ Examines the ethical implications of potential AI consciousness and suffering. A
 **Date:** April 30, 2026 · **License:** CC BY-NC-ND 4.0
 **For:** Ethicists · Educators · Indigenous rights advocates · Long-horizon AI policy makers
 
-Connects intergenerational equity and ancestral wisdom to AI safety. Argues that genuine AI safety must account for deep time — both the accumulated wisdom of past generations and responsibility to those not yet born. A unique and underexplored dimension of the AI safety conversation.
+Connects intergenerational equity and ancestral wisdom to AI safety. Argues that genuine AI safety must account for deep time — both the accumulated wisdom of past generations and responsibility to those not yet born.
 
 ---
 
@@ -109,7 +118,7 @@ Connects intergenerational equity and ancestral wisdom to AI safety. Argues that
 **Date:** May 7, 2026 · **License:** CC0
 **For:** NPT delegates · Nuclear policy makers · Arms control researchers
 
-Makes the empirical case for mandatory AI guardrails in nuclear command-and-control systems. Proposes three concrete policy interventions requiring no new treaty amendment. Directly addresses the risk that degraded or misaligned AI in decision loops could trigger escalation.
+Makes the empirical case for mandatory AI guardrails in nuclear command-and-control systems. Proposes three concrete policy interventions requiring no new treaty amendment.
 
 ---
 
@@ -118,7 +127,7 @@ Makes the empirical case for mandatory AI guardrails in nuclear command-and-cont
 **Date:** May 11, 2026 · **License:** CC0
 **For:** NPT Review Conference delegates · Civil society organisations · Disarmament researchers
 
-The comprehensive civil society submission to the 11th NPT Review Conference. Integrates the full GSC framework — AI safety, consciousness quality, nuclear stability — into a single policy argument. Includes analysis of all nine nuclear-armed states and game-theoretic assessment of current deterrence dynamics.
+The comprehensive civil society submission to the 11th NPT Review Conference. Integrates the full GSC framework into a single policy argument. Includes analysis of all nine nuclear-armed states and game-theoretic assessment of current deterrence dynamics.
 
 ---
 
@@ -127,7 +136,7 @@ The comprehensive civil society submission to the 11th NPT Review Conference. In
 **Date:** May 11, 2026 · **License:** CC0
 **For:** Busy delegates · Journalists · Civil society advocates
 
-A condensed 4-page version of the full RevCon submission. Designed for rapid reading. The fastest way to understand the GSC's core nuclear-AI safety argument.
+A condensed 4-page version of the full RevCon submission. The fastest way to understand the GSC's core nuclear-AI safety argument.
 
 ---
 
@@ -145,7 +154,7 @@ Applies Nash Equilibrium and game theory to the current nuclear deterrence lands
 **Date:** May 16, 2026 · **License:** CC0
 **For:** Diplomats · Track II negotiators · Conflict mediators · Security professionals
 
-A practical companion to the Nash Equilibrium brief. Provides structured dialogue frameworks for navigating the security dilemma — the dynamic by which defensive actions by one state are perceived as offensive by another. Designed for real negotiating rooms.
+Practical dialogue frameworks for navigating the security dilemma — the dynamic by which defensive actions by one state are perceived as offensive by another. Designed for real negotiating rooms.
 
 ---
 
@@ -160,13 +169,13 @@ A practical companion to the Nash Equilibrium brief. Provides structured dialogu
 
 A practical, secular, evidence-based protocol for structured peer listening and nervous system regulation in high-pressure decision contexts. A 5-minute preparation protocol requiring no belief system, no technology, and no prior training.
 
-*Scientific grounding:* Polyvagal theory · HRV coherence research (HeartMath Institute, 2025) · Epigenetics (Lipton; Meaney & Szyf) · Group coherence studies (EXPLORE, Elsevier, January 2026).
+*Scientific grounding:* Polyvagal theory · HRV coherence research (HeartMath Institute, 2025) · Epigenetics · Group coherence studies (EXPLORE, Elsevier, January 2026).
 
 ---
 
-### 🌱 PART V — REFLECTIVE ESSAYS & PHILOSOPHICAL FRAMEWORKS
+### 🌱 PART V — REFLECTIVE ESSAYS & PRACTICAL FRAMEWORKS
 
-*These documents extend the GSC framework into the terrain of narrative, identity, and relational intelligence — exploring the inner conditions that make good stewardship possible.*
+*These documents explore the inner conditions that make good stewardship possible — narrative, identity, relational intelligence, emotional clearing, and embodied wisdom.*
 
 ---
 
@@ -202,29 +211,71 @@ A navigational guide for ethical decision-making under uncertainty — drawing o
 **Date:** May 27, 2026 · **License:** CC0
 **For:** Philosophers · Psychologists · Contemplative practitioners · AI researchers · General public
 
-Explores the relationship between personal identity, consciousness coherence, and collective action. Argues that the fragmentation of the self — and of institutions — is not merely a personal problem but a civilisational one, with measurable consequences for global stability.
+Explores the relationship between personal identity, consciousness coherence, and collective action. Argues that the fragmentation of the self — and of institutions — is not merely a personal problem but a civilisational one.
 
 ---
 
 #### 14. The Relational Fire
-**File:** [`The_Relational_Fire.pdf`](./The_Relational_Fire.pdf)
-**Date:** June 2026 · **License:** CC0
-**For:** Anyone navigating difficult relationships or conflict · Mediators · Carers · Leaders · Anyone feeling the impulse to withdraw or retaliate
+**File:** [`The_Relational_Fire_June_1_2026.pdf`](./The_Relational_Fire_June_1_2026.pdf)
+**Date:** June 1, 2026 · **License:** CC0
+**For:** Anyone navigating difficult relationships or conflict · Mediators · Carers · Leaders
 
-The art of staying present in relationship when it is difficult — returning love for hatred without becoming a doormat. Draws on the Bhagavad Gita's teaching on fierce compassion and the 'One Hearth, Many Fires' framework. Includes the 'Unseen Forces' inquiry for understanding what drives hostile behaviour, and the 'Notice One Small Thing' gateway practice for returning to presence.
+The art of staying present in relationship when it is difficult — returning love for hatred without becoming a doormat. Includes the Unseen Forces inquiry for understanding hostile behaviour, the five-step Relational Fire Protocol for real-time application, and the Notice One Small Thing practice for returning to presence.
 
 > *"Stick it out: not by becoming a doormat, not by blindly obeying whatever command the other person gives you, but by resolutely refusing to hurt anyone no matter how much you have been hurt. It is a great art."* — Eknath Easwaran
 
 ---
 
 #### 15. The Story We Choose
-**File:** [`The_Story_We_Choose.pdf`](./The_Story_We_Choose.pdf)
-**Date:** June 2026 · **License:** CC0
-**For:** Anyone wanting the big picture before diving into tools · Skeptics who need science first · Educators · Policy makers · General public
+**File:** [`The_Story_We_Choose_June_1_2026.pdf`](./The_Story_We_Choose_June_1_2026.pdf)
+**Date:** June 1, 2026 · **License:** CC0
+**For:** Anyone wanting the big picture before diving into tools · Skeptics who need science first · Educators · Policy makers
 
-The philosophical and scientific anchor for the entire repository. Explores the contest between two civilisational narratives: the old story of separation, competition, and human inadequacy versus the new story emerging from epigenetics, neurocardiology, and quantum biology. Introduces Gregg Braden's 'soft technology' concept — the insight that we are already the technology we have been waiting for. Provides the scientific grounding for why inner work matters at the collective level.
+The philosophical and scientific anchor for the entire repository. Explores the contest between two civilisational narratives — the old story of separation and human inadequacy versus the new story emerging from epigenetics, neurocardiology, and field theory. Introduces Gregg Braden's 'soft technology' concept: we are already the technology we have been waiting for.
 
 > *"We are the technology we've been waiting for. Change your story, change your life. Change our story, change the world."* — Gregg Braden
+
+---
+
+#### 16. The Real vs The Algorithm — A Guide for Young People on AI, Authenticity, and Safety
+**File:** [`TheRealVsAlgorithm_Guide_May29_2026.pdf`](./TheRealVsAlgorithm_Guide_May29_2026.pdf)
+**Date:** May 29, 2026 · **License:** CC0
+**For:** Young people · Parents · Educators · Youth workers · Policy makers on digital safety · Anyone examining their relationship with technology
+
+A clear-eyed guide to navigating the digital environment with authenticity and self-knowledge intact. Names the specific lies offered by social media performance culture, AI companions, algorithmic radicalisation, and toxic influencer ecosystems — and gives practical tools for seeing through each one. Includes a policy SWOT on the hyperscaler platforms (Meta, Google, X, TikTok) and a call for both personal resistance and systemic redesign. The core teaching: when you know your own heart and mind, the algorithm has nothing to exploit.
+
+> *"Protecting your authenticity today is a personal act of resistance. It must also become collective policy."*
+
+---
+
+#### 17. The Clearing Protocol — A Practical Guide to Releasing Guilt, Shame, Perfectionism, and Judgment
+**File:** [`The_Clearing_Protocol_May30_2026.pdf`](./The_Clearing_Protocol_May30_2026.pdf)
+**Date:** May 30, 2026 · **License:** CC0
+**For:** General public · Practitioners · Peer counsellors · Diplomats and negotiators · Anyone carrying accumulated emotional patterns · Pre-session preparation for Mirror Model users
+
+A structured, secular protocol for releasing the four internal states that most consistently block clear perception and coherent action: guilt, shame, perfectionism, and comparison. Contains four interlocking practices:
+
+- **The Clearing Practice** — a visualisation for dissolving accumulated emotional residue, grounded in neuroscience of visualisation and somatic psychology
+- **The Disco Ball Practice** — a perspective-taking tool for conflict and polarisation: each person sees a different fragment of a larger whole; no one's view is wrong, all are partial
+- **The Highest Timeline Practice** — a mental rehearsal method for embodying your clearest potential, drawn from sports psychology and visualisation research
+- **The Heart Expansion Practice** — a compassion practice grounded in HeartMath HRV coherence research
+
+*Source credit:* Adapted from Dr. Lisa Thompson's teachings (New Earth One Network, May 2026).
+
+> *"You are not your guilt. You are not your shame. You are the one who can observe them, name them, and release them. What remains after clearing is you — whole, worthy, and free."*
+
+---
+
+#### 18. The Body Compass
+**File:** [`The_Body_Compass.pdf`](./The_Body_Compass.pdf)
+**Date:** June 2026 · **License:** CC0
+**For:** Anyone told they are "too sensitive" · Those wanting to make decisions from embodied wisdom · Practitioners · Educators · Decision-makers at every level
+
+A practical guide to using physical sensation as a navigation system — in daily decisions, relationships, boundary-setting, and accessing flow states. Reframes sensitivity as a precision instrument, not a liability. Includes the Daily Body Check, the Calibration Practice, the Flow State Entry Practice, and the Boundary Check. Grounded in interoception science.
+
+> *"You are not too sensitive. You are exquisitely calibrated. Learn to read the signals, and you will never be lost."*
+
+*Source credit:* Adapted from Jarrad Hewitt's Flow Codes teaching (youtube.com/watch?v=s_j83nzK1YI)
 
 ---
 
@@ -234,6 +285,7 @@ The philosophical and scientific anchor for the entire repository. Explores the 
 CHARTER (Doc 1)
     │
     ├── AI SAFETY ──────────► Consciousness & AI Design (2) ──► Ancestral Dimension (3)
+    │                         ──► Real vs Algorithm (16)
     │
     ├── NUCLEAR SAFETY ─────► Consciousness Variable (4) ──► Full RevCon Submission (5)
     │                         ──► Delegate Brief (6) ──► Nash Brief (7) ──► Security Dilemma (8)
@@ -243,9 +295,20 @@ CHARTER (Doc 1)
     └── INNER WORK ─────────► Narrative Shift (10) ──► Field of Connection (11)
                                ──► Heart's Compass (12) ──► Unified Self (13)
                                ──► Relational Fire (14) ──► Story We Choose (15)
+                               ──► Clearing Protocol (17) ──► Body Compass (18)
 ```
 
-You can enter the framework from any document. Each one points to the others.
+**Recommended entry paths:**
+
+| Where you are | Suggested path |
+|---|---|
+| New to the framework | Doc 1 → Doc 15 → Doc 12 |
+| In conflict with another person | Doc 14 → Doc 17 → Doc 18 |
+| Carrying guilt, shame, or old patterns | Doc 17 → Doc 3 → Doc 11 |
+| Navigating technology or social media | Doc 16 → Doc 15 → Doc 18 |
+| Supporting others in high-pressure settings | Doc 17 → Doc 9 → Doc 18 |
+| Wanting the science before the practice | Doc 15 → Doc 11 → Doc 18 |
+| Working on nuclear or AI policy | Doc 2 → Doc 4 → Doc 5 |
 
 ---
 
@@ -258,4 +321,4 @@ You can enter the framework from any document. Each one points to the others.
 
 ---
 
-*Last updated: June 1, 2026*
+*Last updated: June 2026 · 18 documents*

@@ -122,8 +122,8 @@ Makes the empirical case for mandatory AI guardrails in nuclear command-and-cont
 
 ---
 
-#### 5. The Consciousness Variable — Full RevCon Submission
-**File:** [`GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf`](./GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf)
+#### 5. Consciousness Variable Lucky Delegate Brief
+**File:** [`GSC-Consciousness-Variable-RevCon2026-Final-Week-May11.pdf`](Consciousness_Variable_Lucky_Delegate_Brief_May11_2026.pdf)
 **Date:** May 11, 2026 · **License:** CC0
 **For:** NPT Review Conference delegates · Civil society organisations · Disarmament researchers
 

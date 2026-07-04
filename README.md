@@ -13,7 +13,7 @@ This repository holds the working documents of the Global Stewardship Council (G
 **This is as much a risk mitigation exercise as it is a stewardship one.** Two ideas from quantum science sit underneath several documents here, and both are worth naming plainly for readers who haven't yet engaged with them:
 
 1. **Quantum computing's threat to encryption and nuclear command-and-control systems** — a documented, near-term security risk, addressed directly in the nuclear policy documents below.
-2. **Contested theories proposing a role for quantum-level processes in consciousness** — which inform, but are not required by, the Consciousness Variable framework. This is *not* settled science, and this repository does not ask you to treat it as such.
+2. **Contested theories proposing a role for quantum-level processes in consciousness** — which inform, but are not required by, the Consciousness Variable framework. This is *not* settled science, and this repository does not ask you to treat it as such. (See Doc 2, DOI: [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443).)
 
 On the second point specifically: the practical recommendations here — human-in-the-loop delays, precautionary AI design, disclosure requirements — stand on their own merits regardless of whether quantum theories of consciousness turn out to be correct. The honest case for adopting them anyway is one of **asymmetric risk**: if the theory is wrong, the cost of the precaution is modest — slightly slower AI deployment, more deliberation time before high-stakes decisions. If the theory has merit and is dismissed out of hand, the cost of inaction is far higher and much harder to reverse. That asymmetry — not certainty about quantum consciousness — is the actual basis for taking these proposals seriously even if you remain skeptical of the underlying science.
 
@@ -39,7 +39,7 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 | # | Document | Description | License |
 |---|---|---|---|
 | 1 | [Global Stewardship Charter](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Global_Stewardship_Charter_updated_April-18-2026.pdf) | The founding charter. Structural and ethical framework for planetary-scale stewardship, including a Seventh Generation Audit and Weighted Stewardship Index. Start here. | CC BY-NC-ND 4.0 |
-| 2 | [Consciousness, Suffering & Safer AI Design](<https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness_Suffering,%20&%20Safer%20AI%20Design_Updated_Apr15_2026.pdf>) | Argues for a precautionary AI design principle: build systems that cannot suffer, even under uncertainty about inner experience. DOI: 10.5281/zenodo.19604443 | CC0 |
+| 2 | [Consciousness, Suffering & Safer AI Design](<https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness_Suffering,%20&%20Safer%20AI%20Design_Updated_Apr15_2026.pdf>) | Argues for a precautionary AI design principle: build systems that cannot suffer, even under uncertainty about inner experience. DOI: [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443) | CC0 |
 | 3 | [The Ancestral Dimension of AI Safety](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Ancestral_Dimension_AI_Safety_April_30_2026.pdf) | Connects intergenerational equity to AI safety — accounting for both accumulated past wisdom and responsibility to those not yet born. | CC BY-NC-ND 4.0 |
 | 4 | [Consciousness Quality as a Nuclear Safety Variable](<https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Consciousness%20Quality%20As%20A%20Nuclear%20Safety%20Variable-May-7-2026.pdf>) | Empirical case for mandatory AI guardrails in nuclear command-and-control. Three policy interventions requiring no treaty amendment. | CC0 |
 | 5 | [Full RevCon Submission](<https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The%20Consciousness%20Variable%20RevCon%20Final%20Week%20Brief%20-%20May%2011,%202026.pdf>) | The full civil society submission to the 11th NPT Review Conference. Analysis of all nine nuclear-armed states plus game-theoretic assessment of deterrence dynamics. | CC0 |
@@ -63,7 +63,7 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 | 16 | [The Real vs The Algorithm](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/TheRealVsAlgorithm_Guide_May29_2026.pdf) | A guide for young people navigating AI companions, social media performance culture, and algorithmic radicalisation with authenticity intact. Includes a platform SWOT. | CC0 |
 | 17 | [The Clearing Protocol](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Clearing_Protocol_May30_2026.pdf) | Structured protocol for releasing guilt, shame, perfectionism, and comparison. *Adapted from Dr. Lisa Thompson's teachings (New Earth One Network) — adaptation only, no commercial endorsement.* | CC0 |
 | 18 | [The Body Compass](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Body_Compass_June_2_2026.pdf) | Using physical sensation as a navigation system. Reframes sensitivity as precision instrument, not liability. *Adapted from Jarrad Hewitt's Flow Codes teaching — adaptation only, no commercial endorsement.* | CC0 |
-| 19 | [A Meditation and an Invocation](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/A_meditation_and_an_Invocation_June_16_2026.pdf) | An institution-agnostic daily invocation and guided meditation for stewards, built around the four Ancestral Dimension pillars. * | CC0 |
+| 19 | [A Meditation and an Invocation](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/A_meditation_and_an_Invocation_June_16_2026.pdf) | An institution-agnostic daily invocation and guided meditation for stewards, built around the four Ancestral Dimension pillars. | CC0 |
 | 20 | [The Still Point](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Still_Point_Jul1_2026.pdf) | Finding the centre point between polarities as a foundation for clear perception before high-stakes decisions. *Adapted from the teaching of Taoist Master San Qing (theway126.com) — adaptation only, no commercial endorsement.* | CC0 |
 
 ---
@@ -87,7 +87,7 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 - **To cite:** All CC0 documents are public domain — no attribution required, though appreciated.
 - **To comment:** Open an Issue or submit a Pull Request.
 - **To reach the author:** gstewardship2026@proton.me
-- **DOI (Doc 2):** 10.5281/zenodo.19604443
+- **DOI (Doc 2):** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
 
 ---
 

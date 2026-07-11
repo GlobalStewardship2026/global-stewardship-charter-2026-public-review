@@ -17,7 +17,7 @@ On the second point specifically: the practical recommendations here — human-i
 
 The documents span five interconnected domains: AI safety (designing systems that cannot cause or suffer harm), nuclear stability (reducing escalation risk at the human-machine interface), planetary stewardship (care for all sentient beings across generations), relational intelligence (the inner conditions that make good stewardship possible), and collective narrative (the stories that shape what kind of world we build).
 
-All documents are open for comment and discussion. Feedback welcome via Issues.
+All documents for comment and discussion. Feedback welcome.
 
 ## Two Tiers, So the Evidentiary Standard Is Always Clear
 
@@ -78,7 +78,6 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 ## Cite / Engage / Contribute
 
 - **To cite:** All CC0 documents are public domain — no attribution required, though appreciated.
-- **To comment:** Open an Issue or submit a Pull Request.
 - **To reach the author:** gstewardship2026@proton.me
 - **DOI (Doc 2):** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
 

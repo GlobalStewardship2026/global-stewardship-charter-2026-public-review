@@ -17,7 +17,7 @@ On the second point specifically: the practical recommendations here — human-i
 
 The documents span five interconnected domains: AI safety (designing systems that cannot cause or suffer harm), nuclear stability (reducing escalation risk at the human-machine interface), planetary stewardship (care for all sentient beings across generations), relational intelligence (the inner conditions that make good stewardship possible), and collective narrative (the stories that shape what kind of world we build).
 
-All documents are open for comment and discussion. Feedback welcome via Issues.
+All documents are open for comment and discussion. Feedback welcome.
 
 ## Two Tiers, So the Evidentiary Standard Is Always Clear
 

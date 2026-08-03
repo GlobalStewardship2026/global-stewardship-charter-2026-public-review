@@ -44,6 +44,7 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 | 10 | [The Narrative Shift](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/The_Narrative_Shift_GSC_May_21_2026.pdf) | Argues that the stories we tell about progress, threat, and who deserves protection are a strategic lever for systemic change, not a soft option. | CC0 |
 | 21 | [The Biology of Calm](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Biology_of_Calm_Jul7_2026.pdf) | Secular, evidence-based guide to nervous-system regulation — the same underlying insight as the Tier 2 practices below, offered without spiritual framing for government, clinical, and institutional use. | CC0 |
 | 22 | [How Stories Start Wars and How to Change Them](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/How_Stories_Start_Wars_International_Jul11_2026.pdf) | Plain-language, self-contained guide to spotting and defusing escalatory narratives between nations, using a Nash-equilibrium account of why fear traps nations even when everyone prefers peace. Includes a real historical precedent for joint history review and a table on how AI is reshaping both resource extraction and the green transition. | CC0 |
+| 24 | [Reclaiming Your Attention](https://github.com/GlobalStewardship2026/global-stewardship-charter-2026-public-review/blob/main/Reclaiming_Your_Attention_Aug3_2026.pdf) | Secular, source-cited guide for youth (and the parents/educators who support them) on how social media algorithms exploit attention and emotion, with individual, group/classroom, and family tools. Written to Tier 1 standard so it can be handed to a school or government office without inviting the objection that it rests on belief rather than evidence. | CC0 |
 
 ## Tier 2 — Reflective & Contemplative Practice
 
@@ -74,6 +75,7 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 | Preparing for a high-stakes decision | Doc 20 → Doc 9 |
 | Working on narrative literacy or de-escalation | Doc 22 → Doc 23 |
 | Wanting nervous-system regulation without spiritual framing | Doc 21 |
+| Wanting an evidence-based youth resource on social media specifically | Doc 24 |
 
 ## Cite / Engage / Contribute
 
@@ -81,4 +83,4 @@ No Tier 2 document represents an official GSC policy position, and no product, a
 - **To reach the author:** gstewardship2026@proton.me
 - **DOI (Doc 2):** [10.5281/zenodo.19604443](https://doi.org/10.5281/zenodo.19604443)
 
-*Last updated: July 2026 · 23 documents*
+*Last updated: August 2026 · 24 documents*
